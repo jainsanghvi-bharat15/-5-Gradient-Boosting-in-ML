@@ -1,0 +1,1001 @@
+Age,Gender,BMI,Smoking,PolicyType,ClaimAmount,PreExistingCondition,HospitalStayDays,ClaimApproved
+56,Male,36.7,No,Basic,37411.0,None,17,0
+69,Male,28.9,No,Gold,42548.47,Diabetes,6,0
+46,Male,28.6,Yes,Basic,27733.67,Asthma,14,0
+32,Female,31.0,Yes,Gold,49103.66,Asthma,15,0
+60,Male,36.1,Yes,Basic,23073.45,None,14,0
+25,Male,25.7,No,Premium,26155.04,Asthma,3,0
+38,Male,32.9,Yes,Basic,49471.67,Heart Disease,19,0
+56,Female,30.4,Yes,Basic,12345.87,Heart Disease,12,0
+36,Female,23.9,No,Gold,47184.75,Heart Disease,2,0
+40,Male,37.3,No,Gold,3099.04,Heart Disease,3,0
+28,Male,35.5,No,Basic,22872.96,Heart Disease,18,0
+28,Male,32.5,No,Premium,4430.17,Asthma,1,1
+41,Male,36.7,Yes,Basic,36732.5,None,6,0
+53,Female,37.1,No,Basic,30812.04,None,5,0
+57,Female,33.6,No,Premium,35625.08,Heart Disease,1,0
+41,Female,36.4,Yes,Gold,19349.54,Asthma,19,0
+20,Female,33.3,Yes,Basic,19104.61,Diabetes,1,0
+39,Male,33.0,No,Gold,3220.64,Diabetes,16,0
+19,Male,31.6,Yes,Gold,18147.3,Asthma,12,0
+41,Male,34.6,No,Premium,46535.13,Heart Disease,8,0
+61,Female,21.5,No,Premium,19582.1,None,16,0
+47,Male,37.4,Yes,Gold,41737.02,Asthma,1,0
+55,Female,37.2,Yes,Basic,42273.95,Diabetes,4,0
+19,Female,18.6,No,Gold,19288.82,Diabetes,10,0
+38,Male,36.2,No,Basic,31967.45,Diabetes,11,0
+50,Male,20.8,No,Basic,5673.21,Heart Disease,17,0
+29,Male,25.4,Yes,Premium,6080.25,Diabetes,7,0
+39,Female,34.4,No,Basic,3384.23,Asthma,12,0
+61,Male,21.5,No,Basic,29469.74,Asthma,7,0
+42,Female,36.0,No,Gold,21877.48,Diabetes,12,0
+66,Male,36.3,No,Premium,27853.59,Asthma,15,0
+44,Female,29.2,No,Basic,26532.59,Diabetes,2,0
+59,Female,18.1,Yes,Basic,18159.95,Diabetes,14,0
+45,Male,24.3,No,Premium,34196.2,None,13,0
+33,Female,31.6,No,Gold,38166.59,Heart Disease,4,0
+32,Female,39.6,No,Premium,1716.78,Heart Disease,14,0
+64,Male,31.9,No,Premium,11154.87,None,14,0
+68,Female,23.7,Yes,Basic,35948.56,None,16,0
+61,Male,31.9,Yes,Basic,19944.39,Heart Disease,7,0
+69,Female,29.9,Yes,Gold,33461.71,Diabetes,19,0
+20,Male,35.2,No,Basic,18001.17,Diabetes,2,0
+54,Male,20.4,No,Basic,20147.0,Heart Disease,10,0
+68,Female,34.7,Yes,Premium,8775.26,Diabetes,18,0
+24,Female,29.9,Yes,Basic,13653.32,None,17,0
+38,Female,39.2,Yes,Gold,30665.18,Diabetes,5,0
+26,Female,25.5,No,Premium,22224.99,Diabetes,12,0
+56,Female,31.9,No,Gold,38940.83,Asthma,6,0
+35,Male,38.5,Yes,Premium,42776.66,Asthma,9,0
+21,Female,20.3,Yes,Basic,27540.67,Asthma,1,0
+42,Male,38.6,Yes,Premium,38155.1,Diabetes,15,0
+31,Male,33.1,No,Premium,16038.32,Heart Disease,6,0
+67,Female,19.5,No,Basic,21333.59,None,19,0
+26,Male,24.6,No,Basic,35926.11,Diabetes,18,0
+43,Male,33.6,Yes,Gold,19924.39,Heart Disease,6,0
+19,Male,19.5,Yes,Gold,29836.74,Diabetes,13,0
+37,Male,30.8,No,Basic,10083.27,None,1,1
+45,Female,25.6,Yes,Basic,30388.79,Diabetes,13,0
+64,Male,31.7,No,Basic,43214.17,None,7,0
+24,Female,19.0,Yes,Premium,43563.34,Diabetes,15,0
+61,Female,37.2,Yes,Premium,36492.88,None,12,0
+25,Male,39.4,Yes,Premium,37541.92,Diabetes,1,0
+64,Female,39.3,Yes,Basic,28338.44,None,15,0
+52,Female,34.5,No,Gold,29648.74,Asthma,4,0
+31,Female,20.9,Yes,Basic,7548.88,Diabetes,13,0
+34,Male,34.7,No,Premium,22749.1,Diabetes,5,0
+53,Female,18.5,No,Premium,23088.04,Heart Disease,2,0
+67,Female,18.5,No,Basic,47966.39,Heart Disease,1,0
+57,Female,25.1,Yes,Basic,22123.26,None,16,0
+21,Male,28.8,No,Premium,27917.79,Diabetes,6,0
+19,Female,34.9,No,Premium,27129.32,None,16,0
+23,Male,33.0,No,Premium,32201.32,Asthma,14,0
+59,Male,27.8,Yes,Basic,37663.41,Heart Disease,3,0
+21,Male,24.0,Yes,Premium,12027.05,None,15,0
+46,Male,39.9,No,Premium,26907.5,None,3,0
+35,Male,27.4,Yes,Gold,41469.97,Heart Disease,2,0
+43,Male,27.9,No,Basic,23692.62,Diabetes,1,0
+61,Female,21.6,No,Gold,14644.42,None,9,1
+51,Male,35.5,Yes,Gold,33080.74,Heart Disease,9,0
+27,Female,33.3,No,Premium,41364.6,Diabetes,7,0
+53,Female,22.9,Yes,Basic,4093.87,Asthma,3,1
+31,Male,19.8,Yes,Premium,39062.73,Heart Disease,18,0
+48,Female,33.0,No,Basic,41260.75,None,11,0
+65,Female,32.4,Yes,Gold,23614.62,Asthma,7,0
+32,Female,24.0,Yes,Basic,49181.98,Diabetes,9,0
+25,Female,38.9,No,Premium,39548.71,Diabetes,1,0
+31,Male,21.3,No,Premium,38909.47,Heart Disease,14,0
+40,Female,27.5,Yes,Premium,37644.09,Heart Disease,6,0
+57,Male,38.8,Yes,Basic,8379.8,Heart Disease,7,0
+38,Female,27.2,No,Gold,11644.31,Diabetes,10,0
+33,Female,32.0,Yes,Gold,23735.52,Asthma,7,0
+62,Male,26.7,Yes,Basic,13936.21,Diabetes,2,0
+35,Female,24.0,Yes,Premium,21346.81,None,4,0
+64,Female,39.6,Yes,Gold,44534.74,Diabetes,17,0
+41,Female,27.0,Yes,Premium,41392.02,None,1,0
+43,Male,37.7,Yes,Basic,31871.95,Asthma,10,0
+42,Female,23.1,Yes,Premium,43047.9,Heart Disease,19,0
+62,Male,22.7,No,Gold,39404.85,Heart Disease,15,0
+58,Female,18.7,No,Gold,22020.26,Diabetes,10,0
+46,Male,32.3,No,Premium,10852.19,Heart Disease,19,0
+32,Male,26.1,No,Basic,26195.85,Asthma,12,0
+62,Female,37.0,No,Premium,37075.22,Heart Disease,16,0
+18,Female,28.4,Yes,Basic,22384.56,Diabetes,9,0
+42,Male,39.3,Yes,Premium,33671.82,Asthma,15,0
+24,Male,22.1,Yes,Gold,5622.04,None,17,0
+26,Female,37.1,Yes,Basic,37652.23,Diabetes,14,0
+41,Male,35.1,No,Basic,40822.97,None,18,0
+18,Female,35.0,Yes,Basic,35635.05,Asthma,2,0
+61,Female,36.6,Yes,Gold,48395.92,Diabetes,4,0
+25,Female,34.7,No,Premium,41505.95,Diabetes,18,0
+41,Female,31.8,Yes,Gold,45251.59,Asthma,7,0
+28,Male,20.9,Yes,Basic,46744.98,Heart Disease,13,0
+68,Female,18.7,No,Premium,40266.05,Diabetes,15,0
+34,Male,38.3,Yes,Gold,34038.68,Diabetes,1,0
+25,Female,31.6,Yes,Basic,1280.21,None,11,0
+52,Male,35.5,Yes,Basic,23825.46,Heart Disease,10,0
+52,Female,28.6,Yes,Gold,28986.95,None,5,0
+50,Male,20.6,Yes,Gold,15897.48,None,16,0
+22,Male,20.8,No,Gold,16587.12,Heart Disease,11,0
+59,Female,33.1,No,Basic,48096.81,Heart Disease,6,0
+56,Female,27.5,No,Gold,44693.83,Asthma,9,0
+58,Female,22.4,No,Basic,42609.77,Heart Disease,13,0
+45,Female,28.8,No,Gold,20894.58,Diabetes,8,0
+24,Male,19.4,No,Basic,1671.23,Heart Disease,14,0
+26,Female,30.8,Yes,Basic,4930.89,Asthma,1,1
+25,Male,23.9,No,Premium,16297.62,Asthma,17,0
+29,Male,35.5,No,Gold,1771.4,Asthma,5,1
+51,Female,24.8,Yes,Gold,1840.34,Heart Disease,2,0
+50,Male,28.0,Yes,Basic,45913.56,Heart Disease,9,0
+65,Male,18.3,No,Basic,35601.77,None,4,0
+40,Male,19.6,Yes,Basic,16138.84,None,17,0
+41,Male,26.6,No,Premium,7499.58,Diabetes,17,0
+54,Female,28.6,Yes,Premium,26070.15,None,18,0
+52,Female,31.2,No,Basic,1261.96,Diabetes,16,0
+61,Female,24.4,Yes,Gold,46982.27,Asthma,8,0
+57,Female,33.3,Yes,Gold,21325.94,None,11,0
+39,Male,36.9,No,Premium,20714.41,Heart Disease,18,0
+44,Male,35.2,No,Premium,20139.09,None,10,0
+52,Female,18.9,No,Basic,4397.09,Diabetes,13,0
+18,Female,28.6,No,Gold,32277.79,None,17,0
+52,Female,20.3,No,Basic,36917.18,Asthma,18,0
+54,Male,23.3,Yes,Premium,34130.14,Heart Disease,10,0
+64,Female,39.7,No,Gold,7783.34,Diabetes,16,0
+31,Female,21.1,No,Gold,29363.17,Heart Disease,5,0
+20,Female,29.0,Yes,Premium,28904.74,Heart Disease,13,0
+18,Male,31.6,Yes,Basic,43552.13,Diabetes,18,0
+22,Male,33.5,No,Basic,19577.26,Heart Disease,17,0
+43,Male,30.3,Yes,Gold,19202.81,Heart Disease,9,0
+31,Male,18.2,Yes,Premium,31307.83,None,14,0
+56,Male,25.2,No,Gold,32020.56,Heart Disease,17,0
+44,Male,29.4,Yes,Premium,23994.98,Heart Disease,4,0
+26,Male,19.9,Yes,Basic,22709.91,Heart Disease,18,0
+32,Male,25.7,No,Premium,25213.24,Heart Disease,15,0
+32,Female,18.7,No,Basic,43191.22,Diabetes,11,0
+43,Female,19.7,Yes,Premium,23597.18,Asthma,12,0
+59,Male,26.7,Yes,Gold,47056.66,None,9,0
+30,Male,20.9,No,Basic,25696.18,Heart Disease,13,0
+68,Female,30.5,Yes,Gold,47510.83,Heart Disease,15,0
+49,Male,33.2,Yes,Gold,41808.76,Diabetes,15,0
+56,Male,35.6,Yes,Basic,18759.13,Asthma,5,1
+66,Male,22.4,No,Basic,43318.43,Heart Disease,19,0
+69,Female,21.7,Yes,Gold,6393.1,Diabetes,14,0
+49,Female,20.3,Yes,Gold,46327.31,None,17,0
+21,Female,32.0,No,Gold,31950.53,None,18,0
+47,Female,33.5,Yes,Gold,3665.15,Heart Disease,3,0
+54,Female,18.7,Yes,Basic,32568.58,Heart Disease,2,0
+40,Male,38.6,No,Basic,48738.14,Asthma,1,0
+56,Female,19.1,No,Gold,4420.23,Asthma,10,0
+62,Male,29.9,No,Premium,28179.7,Heart Disease,19,0
+32,Male,33.6,No,Premium,37641.92,Diabetes,17,0
+60,Female,37.2,Yes,Basic,40702.67,Asthma,12,0
+46,Female,33.7,Yes,Gold,21277.55,Heart Disease,1,0
+53,Male,35.6,No,Gold,11004.16,Asthma,12,0
+30,Male,25.5,No,Basic,3074.77,Heart Disease,17,0
+49,Male,35.9,Yes,Premium,29406.58,None,3,0
+24,Female,19.8,No,Premium,23192.64,Heart Disease,11,0
+68,Female,37.7,Yes,Premium,47488.48,None,17,0
+39,Female,30.0,No,Basic,3969.64,Asthma,3,1
+45,Female,36.0,Yes,Premium,34584.37,Heart Disease,8,0
+19,Female,28.0,No,Basic,2223.34,Asthma,4,1
+59,Male,32.2,No,Basic,9400.27,None,7,1
+62,Female,29.6,Yes,Gold,23225.37,Heart Disease,14,0
+23,Male,34.1,No,Premium,23288.75,Asthma,14,0
+45,Male,19.8,Yes,Basic,34599.33,None,4,0
+45,Male,19.3,Yes,Premium,45600.44,Asthma,16,0
+61,Female,23.4,Yes,Premium,32312.58,Diabetes,1,0
+61,Female,21.5,Yes,Gold,47723.22,None,17,0
+37,Female,37.2,Yes,Premium,44199.17,None,10,0
+47,Male,22.8,No,Gold,29640.49,None,16,0
+28,Male,39.5,No,Basic,41855.81,Heart Disease,16,0
+45,Male,25.4,Yes,Premium,32486.3,Heart Disease,8,0
+42,Male,22.0,No,Basic,4849.33,Heart Disease,7,0
+56,Male,35.4,Yes,Premium,37287.67,Diabetes,6,0
+50,Male,32.5,No,Basic,5650.51,Diabetes,16,0
+18,Female,29.0,No,Premium,30110.06,None,16,0
+44,Female,30.2,No,Premium,35429.37,Diabetes,7,0
+69,Female,33.8,No,Premium,4259.85,Asthma,9,1
+30,Female,23.0,Yes,Premium,12308.94,None,14,0
+58,Male,39.9,Yes,Premium,45867.94,None,11,0
+20,Male,39.4,No,Premium,31199.41,Asthma,14,0
+56,Female,32.3,No,Premium,13068.01,None,7,1
+23,Male,22.4,Yes,Premium,34843.31,Diabetes,1,0
+25,Female,33.0,No,Premium,30242.04,Heart Disease,13,0
+44,Female,19.6,Yes,Basic,25577.21,Asthma,3,0
+26,Female,18.7,Yes,Gold,48833.16,Diabetes,4,0
+54,Male,23.7,Yes,Premium,34489.24,Asthma,11,0
+50,Female,28.2,No,Gold,19396.61,Asthma,2,1
+68,Female,37.1,Yes,Premium,40203.6,None,14,0
+59,Female,34.0,No,Premium,44344.58,None,12,0
+61,Male,34.3,Yes,Basic,7135.81,Diabetes,17,0
+41,Male,27.4,No,Basic,10827.1,Asthma,12,0
+32,Female,25.6,No,Gold,11595.12,None,12,0
+49,Male,26.2,No,Basic,34869.38,None,1,0
+49,Male,39.7,Yes,Basic,30548.94,Asthma,13,0
+41,Male,18.9,Yes,Gold,31330.59,Diabetes,14,0
+58,Male,37.1,No,Basic,47097.89,Diabetes,2,0
+69,Male,30.7,No,Premium,39019.67,Asthma,12,0
+66,Male,27.6,No,Gold,7268.91,Diabetes,16,0
+66,Male,34.0,Yes,Gold,18027.85,None,4,1
+69,Male,28.7,Yes,Premium,22334.29,Asthma,8,0
+29,Male,37.2,Yes,Basic,20402.12,None,2,0
+56,Male,37.8,Yes,Gold,33796.12,Heart Disease,10,0
+19,Female,27.3,No,Gold,44702.76,Heart Disease,9,0
+20,Female,24.1,No,Premium,15996.52,Diabetes,15,0
+66,Male,31.0,Yes,Premium,28041.98,Heart Disease,13,0
+54,Female,38.1,Yes,Basic,39681.06,None,17,0
+66,Female,22.6,No,Gold,21394.68,Heart Disease,16,0
+34,Male,31.7,Yes,Basic,9237.79,None,2,1
+66,Male,31.9,Yes,Basic,24272.6,Diabetes,14,0
+19,Male,34.1,Yes,Premium,3705.9,Diabetes,3,0
+19,Female,20.9,Yes,Gold,47176.79,None,12,0
+45,Female,33.7,Yes,Gold,4666.24,Heart Disease,8,0
+40,Male,38.0,Yes,Gold,22484.38,Diabetes,2,0
+54,Male,22.0,No,Premium,26964.18,Asthma,4,0
+49,Male,23.2,Yes,Premium,49279.89,Diabetes,14,0
+50,Female,39.4,Yes,Premium,9135.07,Heart Disease,16,0
+18,Female,22.0,No,Premium,6607.14,Asthma,19,0
+36,Female,36.8,No,Premium,1426.6,Heart Disease,2,0
+19,Female,28.8,No,Gold,8623.0,None,12,0
+61,Male,23.4,Yes,Basic,11156.38,Asthma,14,0
+43,Male,37.2,No,Gold,31898.47,Heart Disease,6,0
+49,Male,27.8,Yes,Basic,11765.63,Asthma,13,0
+23,Male,29.3,Yes,Premium,2005.52,Heart Disease,4,0
+49,Female,25.9,Yes,Basic,41504.3,Asthma,18,0
+21,Female,31.0,No,Gold,18914.19,Heart Disease,12,0
+28,Male,21.6,No,Gold,18331.14,None,19,0
+34,Male,26.6,No,Basic,15821.47,Asthma,8,1
+55,Female,39.3,No,Premium,48793.29,Asthma,7,0
+41,Male,23.7,No,Premium,9335.66,Asthma,16,0
+22,Female,32.4,Yes,Gold,45013.67,Asthma,19,0
+69,Male,25.2,Yes,Basic,39063.36,None,6,0
+51,Male,35.0,Yes,Premium,4747.52,Asthma,11,0
+23,Male,20.9,Yes,Premium,49349.73,Diabetes,5,0
+39,Male,39.3,No,Gold,14296.93,None,16,0
+28,Male,28.0,No,Premium,5830.56,Diabetes,7,0
+65,Male,23.2,Yes,Basic,41636.4,Asthma,5,0
+33,Male,19.6,No,Gold,35627.1,Heart Disease,11,0
+50,Female,21.7,No,Gold,31243.72,Diabetes,15,0
+26,Female,29.4,Yes,Basic,8643.06,Asthma,3,1
+23,Female,25.4,Yes,Gold,24446.31,Diabetes,5,0
+33,Female,36.2,No,Premium,39247.25,Asthma,5,0
+46,Female,27.5,No,Premium,15877.57,Asthma,9,1
+20,Male,23.5,Yes,Basic,16272.8,Asthma,15,0
+37,Male,31.6,Yes,Premium,1153.9,Heart Disease,3,0
+53,Female,33.5,Yes,Basic,9537.93,Diabetes,6,0
+36,Male,21.7,No,Basic,43894.88,None,17,0
+43,Female,21.7,Yes,Premium,22645.58,None,8,0
+20,Female,18.8,Yes,Basic,49227.49,None,11,0
+36,Male,34.2,No,Premium,20389.69,None,6,0
+37,Male,32.6,No,Gold,36044.14,Asthma,8,0
+49,Male,28.4,No,Gold,14814.03,Diabetes,10,0
+24,Female,36.6,No,Basic,18826.67,Diabetes,3,0
+69,Male,35.7,No,Premium,10345.57,Heart Disease,14,0
+58,Female,30.9,Yes,Premium,18006.06,Diabetes,14,0
+50,Female,37.1,Yes,Gold,27814.64,Diabetes,10,0
+57,Female,22.5,No,Gold,49596.87,Diabetes,12,0
+56,Male,20.5,No,Premium,33545.88,Heart Disease,6,0
+35,Male,23.9,No,Basic,10763.05,None,12,0
+57,Female,19.3,No,Gold,3203.11,Diabetes,14,0
+18,Male,29.7,No,Basic,7191.47,Heart Disease,2,0
+28,Male,38.6,Yes,Basic,28565.2,Heart Disease,9,0
+45,Male,18.9,Yes,Gold,38492.86,Asthma,10,0
+42,Female,20.7,Yes,Basic,47080.54,Heart Disease,17,0
+67,Female,27.9,Yes,Basic,1775.34,None,17,0
+40,Male,38.5,No,Premium,26615.25,Diabetes,3,0
+48,Female,25.0,Yes,Basic,24072.5,Heart Disease,19,0
+47,Male,29.2,No,Premium,33146.7,None,1,0
+59,Male,18.9,No,Gold,28419.36,Heart Disease,12,0
+52,Male,21.3,No,Gold,34664.92,Heart Disease,7,0
+24,Male,39.7,Yes,Premium,33246.05,Heart Disease,4,0
+33,Female,39.2,No,Gold,6733.57,Heart Disease,10,0
+43,Female,18.1,Yes,Basic,40186.18,Heart Disease,13,0
+65,Female,38.9,Yes,Basic,7038.4,None,2,1
+69,Male,32.1,No,Basic,35228.0,Diabetes,10,0
+66,Male,37.1,No,Gold,21391.12,Diabetes,4,0
+19,Male,28.0,No,Basic,26178.69,Diabetes,18,0
+18,Female,29.3,Yes,Gold,45261.6,Diabetes,5,0
+65,Male,28.8,No,Basic,44604.3,None,19,0
+29,Female,32.7,Yes,Premium,41074.96,Asthma,2,0
+22,Female,21.1,No,Gold,25997.27,Asthma,12,0
+54,Female,18.7,No,Gold,37075.75,None,17,0
+49,Female,24.8,Yes,Basic,26131.96,None,10,0
+26,Female,33.5,Yes,Gold,43610.7,Heart Disease,2,0
+58,Female,22.4,Yes,Gold,20736.02,Heart Disease,6,0
+52,Male,32.8,Yes,Premium,48541.53,Heart Disease,8,0
+36,Male,39.3,Yes,Premium,46683.82,Diabetes,19,0
+65,Female,20.1,Yes,Basic,37338.53,Heart Disease,11,0
+33,Female,32.8,No,Premium,14691.38,Asthma,12,0
+20,Male,27.8,No,Basic,7451.03,Diabetes,9,0
+37,Female,37.1,Yes,Basic,42880.47,Heart Disease,2,0
+41,Female,21.9,No,Basic,9099.81,Diabetes,8,0
+50,Male,33.2,Yes,Gold,42858.78,Asthma,11,0
+41,Female,36.4,No,Premium,25047.49,Heart Disease,4,0
+69,Female,38.8,No,Basic,20921.28,Asthma,10,0
+28,Female,33.0,Yes,Premium,45256.35,Asthma,16,0
+66,Male,28.9,Yes,Basic,30588.7,Asthma,8,0
+25,Male,31.6,Yes,Premium,29254.09,Heart Disease,4,0
+53,Male,37.1,No,Premium,28379.53,None,10,0
+55,Female,30.6,Yes,Basic,19187.31,Heart Disease,12,0
+57,Female,18.7,No,Gold,39496.51,Asthma,14,0
+37,Male,38.5,Yes,Premium,13387.12,Heart Disease,16,0
+52,Female,33.2,No,Gold,47005.85,Asthma,18,0
+65,Female,32.9,No,Gold,44805.28,None,12,0
+42,Female,22.7,Yes,Basic,17536.54,Diabetes,18,0
+52,Female,32.5,No,Basic,36743.72,None,7,0
+42,Female,26.7,No,Basic,29087.94,None,7,0
+46,Male,32.3,Yes,Premium,17544.82,Diabetes,9,0
+35,Female,20.3,No,Basic,49437.56,Heart Disease,1,0
+63,Male,32.5,Yes,Basic,2236.63,Diabetes,6,0
+35,Female,40.0,Yes,Premium,13379.66,Heart Disease,6,0
+19,Male,19.1,Yes,Premium,26483.63,Heart Disease,12,0
+52,Female,39.5,Yes,Basic,26575.7,Asthma,12,0
+33,Male,27.0,No,Basic,29857.72,Asthma,10,0
+58,Female,37.2,No,Basic,37832.13,Diabetes,6,0
+53,Male,35.2,No,Basic,31550.41,None,17,0
+50,Female,30.5,Yes,Gold,30413.79,Diabetes,19,0
+21,Male,34.2,No,Gold,3622.21,Heart Disease,18,0
+50,Female,37.3,No,Basic,19449.98,Asthma,6,1
+31,Male,26.9,Yes,Gold,12370.73,Diabetes,19,0
+38,Male,25.2,Yes,Premium,14003.14,Diabetes,10,0
+65,Female,32.7,No,Gold,28162.54,Asthma,8,0
+37,Female,35.8,Yes,Gold,10775.76,Asthma,6,1
+25,Male,34.8,Yes,Basic,15403.51,Asthma,7,1
+24,Female,35.6,Yes,Gold,12617.15,Heart Disease,1,0
+20,Male,27.6,Yes,Gold,47476.64,Asthma,18,0
+34,Male,36.0,No,Gold,47288.62,None,12,0
+50,Male,20.6,Yes,Gold,30887.14,Diabetes,16,0
+65,Female,30.0,Yes,Premium,46301.6,Asthma,10,0
+29,Male,18.1,Yes,Basic,39504.82,Asthma,10,0
+68,Male,25.1,Yes,Basic,29907.45,Heart Disease,14,0
+39,Female,26.1,Yes,Premium,1315.33,Heart Disease,10,0
+39,Female,26.7,Yes,Gold,38853.3,Diabetes,10,0
+63,Female,33.3,Yes,Premium,35421.93,None,11,0
+47,Female,26.5,Yes,Gold,31147.43,Diabetes,2,0
+55,Male,27.9,No,Premium,38260.79,Asthma,8,0
+55,Male,23.2,Yes,Basic,26133.19,None,7,0
+62,Male,26.2,No,Basic,35500.08,None,8,0
+68,Male,23.0,Yes,Basic,46823.43,None,1,0
+25,Female,19.6,Yes,Gold,19414.45,None,2,1
+44,Male,31.3,Yes,Gold,35697.97,Diabetes,18,0
+44,Male,32.7,Yes,Premium,24308.7,Heart Disease,15,0
+51,Female,31.6,No,Premium,34045.58,Heart Disease,1,0
+38,Male,28.2,Yes,Basic,38381.77,Asthma,5,0
+47,Male,26.4,Yes,Gold,3227.17,Heart Disease,2,0
+50,Male,37.0,No,Premium,32683.42,Heart Disease,3,0
+45,Male,29.4,No,Gold,12110.32,Heart Disease,19,0
+64,Male,28.5,Yes,Gold,33831.59,Heart Disease,18,0
+50,Male,18.6,No,Basic,23948.18,Asthma,18,0
+22,Female,25.5,No,Basic,38904.08,Diabetes,14,0
+65,Female,26.4,No,Gold,7046.64,None,8,1
+36,Male,26.8,Yes,Gold,31689.8,Heart Disease,12,0
+21,Male,30.8,Yes,Gold,14645.07,Diabetes,10,0
+52,Female,29.7,Yes,Gold,42796.12,Heart Disease,17,0
+66,Male,31.4,No,Basic,46490.79,Heart Disease,11,0
+34,Male,34.8,Yes,Premium,49823.52,None,2,0
+61,Male,35.9,No,Basic,40004.36,None,4,0
+45,Female,33.8,Yes,Premium,37932.97,None,1,0
+47,Male,39.0,Yes,Gold,11559.54,Heart Disease,15,0
+46,Female,18.4,No,Premium,17464.35,Heart Disease,13,0
+63,Male,22.3,Yes,Basic,23818.44,Heart Disease,8,0
+23,Female,18.2,No,Basic,38895.67,None,4,0
+52,Female,32.2,No,Gold,45833.33,Asthma,10,0
+58,Male,37.8,Yes,Basic,10267.82,Diabetes,19,0
+54,Female,23.4,No,Gold,46196.01,Asthma,18,0
+41,Male,38.4,Yes,Basic,35085.61,Heart Disease,5,0
+46,Female,19.3,Yes,Basic,30927.77,Heart Disease,19,0
+66,Male,38.6,No,Gold,10792.22,Asthma,16,0
+63,Male,25.7,Yes,Premium,3720.73,Heart Disease,1,0
+48,Female,20.2,No,Basic,28854.78,Diabetes,12,0
+52,Male,28.7,Yes,Premium,32924.27,Heart Disease,2,0
+50,Male,23.6,Yes,Basic,11328.29,Diabetes,8,0
+69,Female,24.3,Yes,Basic,28266.35,Asthma,18,0
+38,Male,24.8,Yes,Basic,42968.18,Asthma,16,0
+49,Male,35.7,Yes,Basic,41918.23,Heart Disease,5,0
+40,Female,29.9,No,Premium,46440.4,Diabetes,13,0
+50,Female,24.8,No,Premium,18928.4,Heart Disease,19,0
+20,Male,31.4,No,Basic,16584.43,None,3,1
+35,Male,33.8,No,Basic,37721.87,None,8,0
+42,Female,24.0,No,Premium,22124.51,None,12,0
+59,Female,27.1,No,Gold,5289.88,None,2,1
+48,Male,20.7,Yes,Gold,14857.26,Heart Disease,11,0
+20,Female,22.0,Yes,Premium,21510.53,None,12,0
+57,Male,33.0,No,Basic,15333.3,Diabetes,18,0
+63,Male,22.0,No,Basic,17278.07,Asthma,13,0
+41,Male,29.6,Yes,Gold,15395.02,Asthma,5,1
+67,Male,33.6,Yes,Gold,3033.46,None,12,0
+49,Male,20.4,Yes,Premium,32217.64,None,2,0
+64,Female,30.5,No,Gold,30267.33,None,5,0
+39,Female,23.6,No,Premium,33015.79,Heart Disease,7,0
+40,Female,39.2,No,Gold,10423.18,Asthma,12,0
+19,Female,28.6,Yes,Gold,15487.07,None,16,0
+44,Male,35.7,Yes,Gold,31361.18,Diabetes,8,0
+59,Male,30.1,No,Basic,30381.75,None,9,0
+19,Male,19.0,No,Basic,25810.19,Asthma,15,0
+43,Male,31.9,Yes,Basic,18170.25,None,5,1
+34,Female,38.9,Yes,Gold,45733.62,Asthma,13,0
+57,Male,31.2,Yes,Premium,17648.74,None,5,1
+50,Male,36.0,Yes,Premium,23325.34,Diabetes,11,0
+26,Female,37.5,No,Premium,34227.58,None,10,0
+60,Female,23.0,Yes,Premium,27608.05,Diabetes,13,0
+65,Female,22.7,Yes,Basic,17997.41,Diabetes,9,0
+56,Female,31.4,Yes,Basic,22346.59,None,14,0
+46,Male,27.0,No,Gold,39929.56,Diabetes,18,0
+59,Male,36.5,No,Gold,14628.33,Heart Disease,15,0
+43,Female,37.8,Yes,Premium,7970.51,None,10,0
+52,Male,25.8,Yes,Basic,16345.0,None,7,1
+67,Male,23.2,Yes,Premium,42627.18,Diabetes,8,0
+42,Male,35.2,No,Gold,5360.5,Diabetes,3,0
+41,Female,24.0,No,Gold,49593.11,None,15,0
+30,Male,36.1,No,Premium,27509.14,Heart Disease,16,0
+24,Female,27.3,Yes,Gold,49257.44,Diabetes,4,0
+53,Male,32.7,No,Premium,47010.82,Diabetes,6,0
+62,Male,20.1,Yes,Basic,23187.87,Asthma,1,0
+37,Male,31.7,Yes,Premium,10726.06,Heart Disease,4,0
+18,Female,27.9,Yes,Basic,9079.35,Heart Disease,11,0
+25,Male,30.9,No,Basic,12759.48,None,12,0
+63,Female,21.7,Yes,Gold,35796.5,Heart Disease,5,0
+33,Female,34.2,No,Gold,14374.55,None,16,0
+31,Female,37.0,No,Gold,17729.84,Asthma,13,0
+29,Male,22.8,Yes,Premium,22990.16,Heart Disease,13,0
+68,Male,20.1,Yes,Premium,45748.4,Diabetes,17,0
+40,Male,18.5,No,Gold,10280.28,Asthma,7,1
+32,Male,32.1,Yes,Premium,1246.3,None,8,1
+45,Female,31.4,No,Gold,3944.72,Asthma,13,0
+51,Female,30.0,Yes,Premium,45333.55,None,16,0
+19,Female,23.1,No,Basic,32728.31,Asthma,4,0
+49,Male,26.6,No,Basic,14378.99,None,8,1
+40,Female,31.1,No,Gold,9682.43,Heart Disease,16,0
+39,Male,28.9,No,Premium,15419.07,Diabetes,10,0
+68,Female,39.7,Yes,Premium,6625.05,None,12,0
+42,Male,21.0,Yes,Basic,47135.11,Asthma,12,0
+39,Male,33.3,No,Basic,39426.1,None,5,0
+39,Female,26.9,No,Gold,23657.17,None,16,0
+66,Female,27.4,Yes,Basic,43383.17,None,1,0
+69,Female,33.8,Yes,Gold,13223.45,Asthma,9,1
+59,Female,33.2,Yes,Basic,36138.91,Diabetes,12,0
+23,Male,39.8,Yes,Basic,42950.49,Heart Disease,5,0
+32,Female,20.8,Yes,Premium,18481.67,Diabetes,3,0
+60,Female,20.3,Yes,Basic,38115.76,None,5,0
+54,Female,33.9,No,Basic,15458.55,Asthma,2,1
+50,Male,30.7,Yes,Gold,15644.0,Diabetes,14,0
+25,Male,24.0,Yes,Basic,6245.8,None,2,1
+61,Female,19.7,No,Gold,22562.84,Heart Disease,13,0
+61,Male,19.9,Yes,Basic,36755.88,Heart Disease,7,0
+22,Female,37.7,Yes,Basic,47070.82,Heart Disease,10,0
+56,Male,22.2,Yes,Gold,30586.05,None,13,0
+21,Male,25.1,Yes,Premium,43293.64,Asthma,16,0
+23,Male,23.0,Yes,Gold,41302.24,Diabetes,14,0
+62,Male,25.8,No,Gold,9493.81,Heart Disease,11,0
+49,Female,19.5,Yes,Gold,24805.05,None,10,0
+69,Female,29.4,No,Premium,6729.25,None,6,1
+47,Female,19.5,No,Basic,34425.5,Diabetes,4,0
+64,Male,35.6,Yes,Gold,47545.08,Heart Disease,1,0
+52,Female,23.1,No,Gold,7717.38,None,7,1
+57,Female,29.9,Yes,Premium,36960.27,Diabetes,9,0
+69,Female,37.4,No,Gold,31979.67,Asthma,8,0
+33,Male,32.3,No,Basic,29596.65,Asthma,5,0
+30,Male,29.7,Yes,Premium,20115.89,Asthma,19,0
+67,Male,25.1,Yes,Basic,18401.45,Heart Disease,10,0
+59,Female,25.3,Yes,Basic,3217.21,Diabetes,11,0
+47,Female,32.7,Yes,Premium,11677.53,Diabetes,15,0
+36,Female,39.9,Yes,Gold,1743.67,None,6,1
+34,Male,32.6,No,Basic,29489.44,None,15,0
+36,Male,30.3,No,Basic,6186.81,None,5,1
+45,Female,34.1,No,Basic,43777.95,Diabetes,19,0
+43,Male,28.2,No,Basic,26634.01,None,19,0
+54,Male,19.3,No,Premium,35284.81,Diabetes,10,0
+43,Male,30.4,No,Premium,21132.0,Diabetes,12,0
+40,Male,39.1,No,Basic,28468.41,Asthma,4,0
+26,Female,21.9,Yes,Gold,47190.3,None,18,0
+29,Male,33.2,Yes,Basic,5053.97,Asthma,16,0
+18,Male,22.4,No,Gold,13442.95,Heart Disease,8,0
+18,Male,29.8,No,Basic,39219.43,Heart Disease,4,0
+64,Male,20.1,Yes,Gold,5838.12,Heart Disease,12,0
+51,Female,27.9,Yes,Basic,4707.39,Diabetes,2,0
+49,Female,34.6,Yes,Gold,18715.53,Diabetes,4,0
+65,Male,25.6,Yes,Basic,5516.23,Diabetes,5,0
+42,Male,32.6,No,Basic,29668.84,None,3,0
+57,Male,35.5,Yes,Gold,12087.49,Asthma,9,1
+62,Male,38.4,No,Premium,44889.2,Diabetes,18,0
+18,Male,23.2,No,Gold,39391.5,Asthma,11,0
+33,Male,26.8,No,Premium,35285.56,Asthma,3,0
+56,Female,21.4,Yes,Basic,31230.26,Asthma,2,0
+22,Male,39.8,Yes,Gold,43309.82,None,9,0
+39,Female,38.4,No,Gold,11930.04,None,14,0
+46,Female,29.9,No,Gold,43782.33,Heart Disease,4,0
+20,Male,36.5,No,Premium,39685.12,Heart Disease,9,0
+29,Female,29.5,Yes,Premium,37659.88,Asthma,13,0
+43,Female,31.7,No,Basic,28501.53,Heart Disease,18,0
+33,Female,20.0,Yes,Premium,13065.96,Asthma,15,0
+68,Female,34.6,No,Premium,21753.85,None,10,0
+54,Female,20.8,No,Basic,39884.96,None,16,0
+39,Female,36.2,No,Gold,2557.15,None,12,0
+46,Male,35.2,Yes,Gold,39320.49,Diabetes,5,0
+31,Female,33.6,Yes,Basic,12763.47,Asthma,2,1
+45,Female,18.8,No,Gold,8071.15,None,10,0
+22,Female,24.7,Yes,Premium,6669.36,Asthma,1,1
+64,Male,23.8,No,Basic,2335.25,Heart Disease,7,0
+66,Female,25.9,Yes,Basic,26655.74,Heart Disease,17,0
+47,Male,19.9,Yes,Basic,11694.73,None,16,0
+63,Female,38.6,Yes,Gold,49482.16,Asthma,3,0
+69,Male,30.2,No,Basic,29147.4,None,14,0
+22,Male,24.7,Yes,Basic,7756.38,Heart Disease,10,0
+29,Female,26.7,Yes,Basic,34749.36,None,7,0
+33,Female,27.8,No,Gold,44989.43,Asthma,17,0
+43,Male,31.2,No,Premium,37513.8,Heart Disease,6,0
+43,Female,29.3,No,Basic,4745.55,Diabetes,4,0
+65,Male,38.2,No,Premium,44898.32,Heart Disease,17,0
+38,Male,28.9,Yes,Gold,39902.54,Diabetes,9,0
+56,Male,39.8,Yes,Gold,8756.89,None,4,1
+53,Male,36.7,Yes,Gold,3537.51,None,7,1
+50,Male,22.6,Yes,Gold,28308.22,Asthma,2,0
+47,Female,38.5,Yes,Premium,8645.75,Diabetes,17,0
+54,Male,20.6,No,Basic,41894.96,None,8,0
+40,Male,36.0,Yes,Gold,18558.4,Diabetes,15,0
+27,Female,26.4,Yes,Gold,45731.73,None,15,0
+22,Male,37.3,Yes,Premium,28718.72,Heart Disease,8,0
+53,Female,37.1,No,Premium,9950.95,None,16,0
+51,Female,35.7,No,Gold,7840.34,Asthma,19,0
+69,Female,35.4,Yes,Basic,29247.15,Heart Disease,11,0
+48,Male,24.7,No,Basic,38332.3,Asthma,2,0
+27,Male,19.8,No,Gold,39293.78,Heart Disease,17,0
+36,Male,26.9,No,Premium,14512.11,Diabetes,16,0
+49,Female,21.8,No,Gold,11008.09,Asthma,15,0
+18,Male,33.3,No,Gold,1821.06,None,13,0
+22,Female,25.6,No,Premium,34280.76,Diabetes,15,0
+62,Male,39.5,No,Gold,4751.84,None,4,1
+21,Female,32.1,Yes,Gold,21617.3,Heart Disease,16,0
+33,Male,36.1,Yes,Gold,30482.43,Heart Disease,12,0
+41,Male,20.9,No,Premium,46918.34,None,4,0
+33,Male,37.0,Yes,Basic,16278.3,None,3,1
+19,Female,38.3,Yes,Basic,13238.84,Diabetes,17,0
+66,Female,28.7,No,Premium,33053.85,None,18,0
+45,Male,31.3,Yes,Basic,31342.71,Asthma,18,0
+49,Male,34.8,No,Gold,17273.38,Asthma,17,0
+44,Female,21.8,No,Basic,46476.99,None,12,0
+37,Female,29.1,No,Gold,42398.25,Asthma,4,0
+41,Female,26.8,Yes,Basic,11975.14,None,12,0
+29,Male,21.2,Yes,Premium,12717.98,Diabetes,15,0
+67,Female,26.1,Yes,Basic,26102.72,Asthma,16,0
+52,Male,19.5,Yes,Basic,38905.03,Asthma,5,0
+50,Female,18.6,No,Basic,3157.98,None,15,0
+50,Male,21.0,No,Premium,34973.42,Asthma,17,0
+68,Female,39.2,Yes,Basic,32763.56,Heart Disease,18,0
+60,Female,30.1,No,Premium,12342.52,Diabetes,5,0
+54,Female,39.2,No,Gold,34386.3,Diabetes,13,0
+29,Female,27.5,Yes,Basic,47068.98,Asthma,19,0
+20,Female,24.9,No,Premium,3292.51,Asthma,13,0
+18,Male,29.1,Yes,Premium,16662.95,Heart Disease,18,0
+50,Female,27.7,No,Basic,22470.66,Heart Disease,14,0
+57,Female,20.3,Yes,Gold,45063.76,Asthma,4,0
+27,Female,32.1,No,Premium,48150.81,Asthma,4,0
+60,Male,22.8,No,Basic,22761.65,Heart Disease,19,0
+61,Female,31.6,Yes,Gold,37751.39,None,13,0
+46,Male,32.3,Yes,Premium,27051.39,Heart Disease,12,0
+30,Female,21.3,Yes,Premium,27351.36,None,7,0
+29,Female,19.3,Yes,Gold,14626.88,Diabetes,12,0
+48,Male,35.2,No,Gold,11630.86,Diabetes,4,0
+63,Female,28.1,No,Basic,15112.26,Heart Disease,2,0
+19,Male,19.3,Yes,Basic,28260.07,None,2,0
+68,Male,39.9,No,Premium,2428.6,Heart Disease,5,0
+67,Female,19.3,Yes,Gold,45455.2,Heart Disease,10,0
+52,Male,33.3,Yes,Gold,8657.9,None,10,0
+40,Female,39.6,No,Gold,11784.35,Heart Disease,9,0
+34,Female,23.3,No,Premium,26395.53,Diabetes,13,0
+43,Male,21.1,Yes,Gold,35795.62,Asthma,7,0
+25,Male,20.7,Yes,Gold,5690.72,Asthma,5,1
+46,Male,24.7,Yes,Premium,16567.04,Heart Disease,10,0
+43,Male,20.2,No,Basic,48465.06,None,10,0
+27,Female,33.2,No,Basic,13854.81,None,6,1
+43,Female,19.4,No,Premium,16339.46,Diabetes,19,0
+51,Male,29.2,No,Gold,41988.43,None,8,0
+68,Female,39.9,Yes,Premium,3460.51,None,1,1
+58,Female,35.9,Yes,Basic,23766.05,Diabetes,17,0
+24,Female,31.5,Yes,Basic,19601.22,Heart Disease,7,0
+21,Female,24.7,Yes,Premium,16512.75,Asthma,14,0
+67,Male,31.7,Yes,Premium,14999.28,Diabetes,17,0
+62,Male,29.6,Yes,Basic,5477.33,Heart Disease,9,0
+28,Female,27.4,No,Premium,16426.47,Diabetes,17,0
+46,Male,20.9,No,Basic,3109.57,Heart Disease,5,0
+53,Male,37.5,Yes,Premium,39267.23,Diabetes,8,0
+42,Male,27.9,Yes,Premium,20513.16,Heart Disease,6,0
+38,Female,22.3,No,Premium,22751.29,Diabetes,11,0
+53,Female,26.1,No,Basic,44786.13,Heart Disease,19,0
+27,Female,27.1,No,Premium,33244.69,Diabetes,4,0
+54,Male,36.2,No,Basic,1394.9,Asthma,18,0
+26,Female,34.1,Yes,Basic,47215.57,Asthma,1,0
+41,Female,34.9,Yes,Premium,12620.08,None,13,0
+52,Male,18.2,Yes,Premium,6273.1,Heart Disease,14,0
+66,Female,27.2,Yes,Basic,38638.28,Diabetes,1,0
+52,Female,28.6,Yes,Basic,25523.39,Heart Disease,11,0
+65,Male,18.4,No,Gold,22254.76,Asthma,17,0
+53,Male,23.7,Yes,Basic,13225.65,Heart Disease,4,0
+35,Male,34.7,No,Gold,27826.1,Diabetes,12,0
+66,Female,21.0,Yes,Gold,14444.85,Heart Disease,10,0
+56,Female,29.8,Yes,Gold,45177.57,Diabetes,6,0
+49,Female,22.7,Yes,Premium,11545.02,Asthma,1,1
+41,Male,18.3,Yes,Premium,44333.4,Asthma,7,0
+40,Male,23.3,Yes,Basic,28410.87,Asthma,16,0
+49,Female,39.5,No,Gold,41595.92,None,14,0
+54,Female,35.6,No,Premium,35929.45,Asthma,6,0
+29,Male,39.1,No,Premium,35138.06,Heart Disease,5,0
+66,Male,28.7,Yes,Premium,16892.94,None,18,0
+30,Male,20.4,Yes,Premium,12460.95,Asthma,15,0
+40,Male,30.1,No,Premium,11333.43,Heart Disease,6,0
+42,Female,28.0,Yes,Gold,43002.39,Heart Disease,19,0
+52,Male,36.6,Yes,Gold,41200.91,Heart Disease,1,0
+58,Female,20.2,No,Gold,22588.1,Diabetes,1,0
+47,Female,28.7,Yes,Gold,7487.83,None,13,0
+34,Female,21.3,No,Basic,19730.36,Heart Disease,3,0
+66,Male,25.1,Yes,Gold,31347.83,Diabetes,10,0
+37,Male,34.2,No,Premium,23265.75,Asthma,3,0
+65,Male,28.5,Yes,Gold,39229.27,Heart Disease,9,0
+42,Male,26.3,Yes,Basic,49883.52,Diabetes,8,0
+39,Female,26.7,No,Premium,10365.47,Heart Disease,3,0
+30,Male,28.1,Yes,Gold,23522.89,None,13,0
+36,Male,35.3,Yes,Gold,22118.21,None,6,0
+66,Female,37.6,No,Gold,15920.13,Asthma,13,0
+53,Male,39.0,Yes,Premium,10706.68,Heart Disease,12,0
+29,Female,35.3,No,Premium,4218.91,Diabetes,13,0
+58,Female,24.9,Yes,Basic,44468.85,Asthma,2,0
+36,Female,33.1,Yes,Premium,21572.59,Heart Disease,16,0
+29,Female,27.6,Yes,Premium,25347.88,Asthma,6,0
+26,Female,23.6,Yes,Gold,45930.16,Diabetes,19,0
+24,Female,36.5,No,Premium,39038.23,Asthma,13,0
+45,Female,18.8,Yes,Gold,7394.56,Asthma,17,0
+31,Female,37.8,No,Gold,28705.58,Asthma,9,0
+48,Male,28.2,Yes,Premium,22670.36,Heart Disease,17,0
+69,Male,32.0,Yes,Basic,40063.34,Diabetes,2,0
+36,Male,32.5,Yes,Basic,36487.39,None,19,0
+64,Male,37.7,Yes,Premium,34829.88,Heart Disease,19,0
+33,Female,32.0,No,Basic,17686.7,None,7,1
+22,Male,31.5,No,Gold,40443.22,None,10,0
+52,Female,19.5,No,Gold,3567.17,Heart Disease,10,0
+29,Male,29.4,No,Premium,8821.62,Heart Disease,9,0
+42,Male,21.3,Yes,Basic,17445.54,Diabetes,17,0
+69,Male,34.2,No,Basic,4763.56,Diabetes,15,0
+38,Female,29.3,No,Gold,12514.72,Asthma,2,1
+53,Male,33.0,Yes,Premium,41677.4,None,4,0
+40,Female,18.9,Yes,Basic,47464.33,Diabetes,19,0
+33,Female,19.9,Yes,Premium,15925.52,Asthma,17,0
+56,Male,33.8,Yes,Basic,13961.27,Diabetes,5,0
+62,Male,19.6,No,Gold,14714.74,Heart Disease,7,0
+59,Male,19.6,No,Gold,14608.24,Diabetes,18,0
+56,Female,18.3,Yes,Premium,2760.58,None,7,1
+31,Male,39.0,Yes,Gold,46418.9,Diabetes,17,0
+48,Female,34.2,Yes,Basic,11471.21,None,7,1
+22,Female,25.8,No,Gold,21580.2,Heart Disease,4,0
+52,Male,24.5,No,Premium,1474.66,None,8,1
+40,Male,25.7,Yes,Premium,43039.8,Diabetes,13,0
+46,Female,35.0,Yes,Premium,36826.71,Asthma,4,0
+60,Female,32.6,No,Basic,47391.05,Heart Disease,6,0
+28,Female,22.1,Yes,Basic,39299.16,Diabetes,5,0
+35,Male,21.8,Yes,Basic,16371.62,Heart Disease,12,0
+64,Female,20.2,No,Basic,13145.79,Heart Disease,4,0
+29,Male,32.5,Yes,Basic,35188.1,Diabetes,9,0
+26,Female,34.8,No,Gold,18841.53,Diabetes,4,0
+27,Female,23.8,Yes,Basic,28744.54,Asthma,19,0
+61,Male,18.5,Yes,Basic,1306.62,Heart Disease,14,0
+34,Female,19.8,No,Gold,4032.4,Heart Disease,5,0
+55,Male,39.3,No,Basic,27233.03,Diabetes,18,0
+24,Male,24.5,Yes,Premium,28737.51,None,10,0
+63,Female,34.9,No,Basic,37821.19,Diabetes,19,0
+30,Male,31.7,Yes,Basic,7466.3,Heart Disease,12,0
+57,Male,26.4,Yes,Premium,26145.97,Diabetes,18,0
+59,Female,22.5,No,Premium,10527.93,Asthma,17,0
+26,Male,20.7,Yes,Premium,5566.61,None,11,0
+67,Male,31.5,Yes,Premium,21114.29,Diabetes,3,0
+44,Male,35.0,No,Basic,9003.5,Asthma,17,0
+19,Female,32.2,No,Premium,11867.32,Heart Disease,1,0
+22,Male,29.7,Yes,Premium,16560.17,Diabetes,15,0
+46,Female,18.9,No,Gold,13710.03,Heart Disease,9,0
+54,Female,39.3,No,Premium,5291.97,Asthma,15,0
+55,Male,35.6,No,Premium,5405.9,Heart Disease,3,0
+36,Male,24.4,No,Gold,10469.22,Asthma,19,0
+25,Male,39.6,Yes,Gold,3477.4,Asthma,13,0
+65,Female,31.2,Yes,Basic,31696.39,Asthma,12,0
+62,Male,30.8,Yes,Gold,15079.01,Diabetes,1,0
+18,Male,34.5,No,Basic,14707.55,Heart Disease,17,0
+39,Male,35.9,No,Gold,17267.92,Heart Disease,13,0
+69,Male,32.4,No,Gold,33477.02,None,1,0
+34,Male,20.8,No,Basic,43661.06,None,10,0
+24,Female,25.4,No,Gold,38195.26,None,15,0
+42,Female,38.4,No,Basic,36648.93,None,7,0
+62,Male,22.9,No,Gold,24735.17,Heart Disease,18,0
+21,Male,26.2,Yes,Premium,34996.47,Asthma,16,0
+53,Male,27.5,Yes,Gold,28085.36,Asthma,14,0
+23,Male,27.7,No,Basic,11596.28,Diabetes,18,0
+48,Female,31.5,No,Gold,11220.83,Asthma,7,1
+36,Male,38.7,No,Basic,15523.21,Heart Disease,17,0
+61,Female,23.3,Yes,Basic,45629.33,Heart Disease,18,0
+56,Female,20.7,Yes,Premium,27823.33,Heart Disease,12,0
+44,Male,22.3,No,Premium,36961.36,Diabetes,8,0
+27,Female,37.5,No,Basic,17981.38,None,2,1
+43,Female,32.2,Yes,Gold,20978.07,Asthma,7,0
+36,Female,24.3,Yes,Basic,7152.71,Heart Disease,4,0
+56,Female,36.0,Yes,Basic,9393.45,Heart Disease,18,0
+20,Male,37.0,Yes,Gold,41540.47,None,6,0
+62,Male,36.6,No,Gold,29657.09,Heart Disease,9,0
+30,Female,38.2,Yes,Gold,17539.09,Asthma,9,1
+67,Male,23.5,Yes,Gold,40339.71,Diabetes,14,0
+45,Male,34.6,No,Basic,13079.48,Heart Disease,8,0
+37,Male,28.1,Yes,Basic,48825.6,Asthma,19,0
+45,Male,36.5,Yes,Premium,17896.06,Heart Disease,3,0
+25,Male,34.0,Yes,Basic,17528.24,None,18,0
+58,Female,35.1,No,Gold,16283.68,Heart Disease,5,0
+56,Male,32.4,Yes,Premium,6983.46,Heart Disease,14,0
+18,Male,21.9,No,Gold,6445.72,Diabetes,4,0
+20,Male,30.0,No,Basic,32757.15,None,7,0
+30,Male,39.7,Yes,Premium,43880.78,None,12,0
+45,Female,38.6,Yes,Gold,39735.51,Diabetes,2,0
+66,Female,18.9,Yes,Premium,7914.27,Heart Disease,11,0
+42,Female,21.6,Yes,Premium,27733.52,Asthma,14,0
+50,Female,20.9,No,Basic,6173.99,None,16,0
+55,Male,34.0,Yes,Gold,3219.44,None,6,1
+23,Female,36.0,Yes,Premium,33162.91,Heart Disease,4,0
+61,Male,22.7,Yes,Premium,27222.46,Heart Disease,15,0
+62,Male,29.1,No,Gold,5019.16,None,1,1
+49,Male,36.5,Yes,Premium,2712.02,Heart Disease,7,0
+62,Male,34.1,Yes,Premium,49498.06,Asthma,12,0
+64,Male,29.9,No,Premium,2471.05,None,10,0
+38,Female,31.0,No,Gold,22781.88,Asthma,5,0
+33,Female,29.2,Yes,Gold,25726.33,Asthma,12,0
+38,Female,24.5,Yes,Gold,6746.73,Heart Disease,18,0
+28,Female,30.4,Yes,Gold,9284.03,Asthma,10,0
+54,Male,33.2,Yes,Basic,18238.45,Heart Disease,6,0
+53,Female,37.2,Yes,Premium,38322.12,Diabetes,12,0
+52,Male,32.0,No,Gold,25847.04,Heart Disease,7,0
+36,Female,34.7,No,Premium,32257.19,Asthma,18,0
+37,Male,21.5,Yes,Premium,49273.55,Diabetes,2,0
+35,Male,28.2,Yes,Basic,38632.27,Heart Disease,10,0
+64,Female,18.2,No,Gold,22283.71,Asthma,15,0
+58,Male,23.4,Yes,Gold,22875.65,None,12,0
+66,Male,34.0,Yes,Premium,31319.83,None,17,0
+31,Female,39.8,Yes,Gold,33602.9,Heart Disease,4,0
+32,Male,20.2,Yes,Premium,25534.84,Heart Disease,7,0
+48,Female,26.8,Yes,Premium,32598.2,None,9,0
+18,Female,35.6,No,Basic,2153.09,Asthma,19,0
+20,Female,22.5,Yes,Basic,22051.52,Asthma,7,0
+33,Male,30.2,Yes,Basic,14667.97,Asthma,2,1
+40,Male,34.1,Yes,Premium,7329.55,Heart Disease,6,0
+28,Male,31.6,No,Gold,5877.78,Diabetes,18,0
+29,Female,22.1,No,Basic,30556.42,Diabetes,6,0
+27,Male,25.8,No,Gold,26656.43,Diabetes,13,0
+49,Female,35.2,No,Basic,13425.62,Diabetes,19,0
+33,Female,30.2,Yes,Basic,24076.55,Diabetes,2,0
+25,Male,18.1,No,Premium,25119.38,Heart Disease,12,0
+55,Female,34.7,Yes,Basic,10555.44,Heart Disease,15,0
+29,Male,18.8,Yes,Basic,32952.56,Diabetes,14,0
+41,Male,34.4,No,Premium,39265.05,Heart Disease,6,0
+45,Male,22.5,No,Gold,39781.71,Heart Disease,18,0
+25,Male,39.1,No,Basic,30521.02,Diabetes,5,0
+45,Male,26.1,No,Premium,26070.29,Asthma,18,0
+53,Female,25.2,No,Basic,3989.35,Heart Disease,3,0
+43,Female,21.3,Yes,Premium,15103.73,Asthma,3,1
+25,Female,24.7,No,Gold,5570.3,Heart Disease,10,0
+67,Male,37.3,No,Gold,48227.33,Heart Disease,19,0
+45,Male,39.9,No,Premium,7618.93,Diabetes,3,0
+45,Male,26.1,Yes,Premium,8437.0,Heart Disease,12,0
+54,Female,27.9,No,Premium,44589.25,None,16,0
+58,Male,33.9,Yes,Gold,47252.49,None,17,0
+53,Female,37.5,No,Basic,38525.62,Diabetes,7,0
+44,Female,31.0,No,Gold,1264.84,Asthma,13,0
+34,Male,26.6,Yes,Premium,1065.97,Asthma,2,1
+26,Male,27.1,No,Premium,19526.94,Asthma,4,1
+50,Female,33.3,Yes,Gold,8026.37,None,10,0
+37,Male,18.1,Yes,Premium,1900.92,Asthma,7,1
+30,Female,31.6,Yes,Gold,23739.27,Asthma,17,0
+45,Male,25.8,No,Premium,47210.03,Diabetes,6,0
+65,Male,35.5,No,Basic,16867.16,Asthma,19,0
+46,Female,20.0,No,Basic,33395.89,None,5,0
+30,Male,30.9,Yes,Premium,32959.53,None,10,0
+63,Female,28.6,No,Gold,13302.93,None,9,1
+52,Male,32.1,Yes,Basic,32870.84,Diabetes,13,0
+23,Female,19.4,No,Gold,11404.36,Diabetes,19,0
+35,Female,30.8,Yes,Premium,6978.36,Heart Disease,6,0
+68,Male,30.4,Yes,Gold,35367.78,Asthma,4,0
+22,Female,30.3,Yes,Basic,6558.6,Diabetes,3,0
+64,Male,31.3,No,Gold,49848.55,None,3,0
+42,Male,32.9,Yes,Gold,9989.17,None,4,1
+19,Male,35.7,Yes,Premium,30112.95,Diabetes,5,0
+27,Female,23.9,Yes,Premium,21157.35,Diabetes,8,0
+47,Female,36.2,Yes,Premium,7192.93,Diabetes,16,0
+67,Male,29.0,Yes,Basic,2364.35,Heart Disease,3,0
+62,Male,19.7,Yes,Basic,31513.88,None,12,0
+22,Female,19.3,No,Premium,40531.12,Heart Disease,8,0
+50,Male,25.4,No,Premium,42258.77,Heart Disease,13,0
+18,Male,35.3,Yes,Basic,24652.96,Asthma,4,0
+35,Female,33.6,No,Basic,39095.32,None,14,0
+49,Male,35.3,No,Basic,33969.51,None,14,0
+64,Female,29.4,Yes,Basic,36488.47,Diabetes,13,0
+66,Male,27.7,Yes,Premium,25137.35,Diabetes,6,0
+28,Female,21.2,Yes,Basic,32037.18,Asthma,17,0
+38,Male,25.2,No,Premium,40470.77,Heart Disease,4,0
+43,Male,27.5,Yes,Gold,20496.32,Diabetes,8,0
+42,Female,19.9,No,Gold,40492.97,Diabetes,17,0
+39,Male,22.9,Yes,Basic,30008.83,None,3,0
+44,Female,31.2,No,Gold,9129.15,None,17,0
+66,Male,34.2,Yes,Gold,2209.52,Diabetes,9,0
+30,Female,40.0,Yes,Gold,18774.93,None,2,1
+50,Female,38.5,No,Basic,27788.12,Asthma,13,0
+51,Female,32.1,No,Basic,42151.2,Diabetes,2,0
+58,Female,27.3,No,Gold,7246.8,None,11,0
+52,Male,32.0,No,Premium,40210.11,Asthma,15,0
+18,Male,35.3,No,Gold,43287.44,None,11,0
+38,Female,20.6,No,Basic,8383.69,None,3,1
+65,Female,27.0,Yes,Basic,42728.12,None,3,0
+23,Female,36.5,No,Basic,49581.22,Diabetes,12,0
+45,Male,26.4,Yes,Gold,36615.1,Heart Disease,5,0
+34,Male,30.6,Yes,Premium,39453.71,None,7,0
+22,Male,30.9,No,Basic,49726.35,Asthma,7,0
+48,Male,22.1,Yes,Basic,30668.58,Diabetes,13,0
+22,Female,26.0,No,Gold,16086.43,Diabetes,9,0
+55,Female,25.4,No,Premium,42039.01,Asthma,13,0
+20,Female,18.6,Yes,Gold,31109.8,None,12,0
+40,Male,18.5,Yes,Basic,29478.58,Heart Disease,13,0
+54,Male,36.3,No,Premium,13428.14,None,10,0
+54,Male,24.0,No,Premium,38060.38,Asthma,1,0
+27,Female,29.4,Yes,Basic,5001.7,Diabetes,8,0
+27,Female,24.6,Yes,Premium,46290.07,Heart Disease,16,0
+36,Male,38.7,Yes,Premium,16965.35,Diabetes,13,0
+34,Female,23.7,Yes,Gold,7260.96,Asthma,3,1
+38,Male,27.5,No,Basic,22675.96,None,3,0
+31,Male,37.2,No,Basic,3081.03,Heart Disease,5,0
+26,Female,36.5,No,Basic,34546.68,Diabetes,11,0
+63,Male,22.1,No,Basic,45232.57,Diabetes,7,0
+18,Female,35.7,Yes,Basic,42025.89,Diabetes,10,0
+68,Male,28.1,Yes,Premium,7241.1,None,10,0
+62,Female,28.6,No,Gold,7187.29,Heart Disease,2,0
+30,Female,20.9,No,Basic,40858.29,None,3,0
+21,Female,19.8,No,Gold,46288.46,None,8,0
+18,Male,34.0,No,Gold,23572.82,None,11,0
+66,Male,28.9,No,Premium,25449.58,Asthma,13,0
+57,Female,27.6,No,Basic,16594.84,Asthma,7,1
+49,Female,34.0,No,Premium,44818.99,Asthma,13,0
+51,Male,34.8,No,Basic,32600.24,Heart Disease,2,0
+45,Male,21.5,No,Premium,15124.33,None,6,1
+48,Male,31.4,Yes,Gold,15640.36,None,9,1
+25,Female,21.0,No,Basic,44668.8,Asthma,2,0
+56,Male,34.5,Yes,Gold,1668.07,None,18,0
+43,Male,32.5,Yes,Gold,16813.6,None,16,0
+51,Female,39.0,No,Premium,28163.48,Diabetes,12,0
+20,Male,19.5,No,Basic,8262.66,None,7,1
+67,Male,19.3,Yes,Gold,5512.84,Diabetes,7,0
+29,Male,24.2,Yes,Premium,40948.54,None,17,0
+18,Female,23.8,No,Basic,44825.82,Heart Disease,13,0
+61,Female,23.4,Yes,Basic,41356.71,Asthma,11,0
+22,Female,37.9,No,Gold,45040.61,Diabetes,6,0
+47,Female,23.5,No,Basic,28102.49,Asthma,14,0
+47,Female,24.0,No,Gold,40800.65,Diabetes,6,0
+34,Female,34.7,Yes,Basic,19818.09,Diabetes,6,0
+65,Female,27.9,Yes,Premium,33647.13,Diabetes,2,0
+64,Male,35.1,No,Gold,49452.94,Heart Disease,15,0
+40,Male,19.4,Yes,Gold,12060.66,None,17,0
+32,Female,28.7,Yes,Basic,20105.09,Diabetes,8,0
+54,Male,18.7,Yes,Basic,24522.32,Heart Disease,5,0
+38,Male,19.4,Yes,Gold,7762.76,Diabetes,17,0
+31,Female,37.9,Yes,Basic,4970.89,None,1,1
+19,Male,21.1,Yes,Premium,41656.42,Diabetes,18,0
+28,Male,29.7,Yes,Basic,48862.92,Heart Disease,15,0
+68,Male,27.0,No,Premium,20831.53,None,5,0
+56,Male,25.6,Yes,Premium,5294.84,Heart Disease,7,0
+55,Male,37.8,Yes,Premium,4224.78,None,18,0
+51,Female,18.5,Yes,Premium,44674.59,None,6,0
+55,Female,32.6,Yes,Premium,23726.9,Asthma,5,0
+67,Female,39.2,Yes,Basic,16681.34,Asthma,19,0
+51,Male,30.3,Yes,Premium,24346.6,Asthma,10,0
+35,Female,38.6,Yes,Basic,16596.9,None,15,0
+47,Male,19.1,Yes,Premium,24962.75,Diabetes,10,0
+32,Male,27.2,No,Gold,43118.26,Heart Disease,16,0
+44,Male,23.7,Yes,Premium,30022.77,Heart Disease,12,0
+68,Male,34.1,Yes,Gold,35038.03,Heart Disease,18,0
+51,Female,39.6,Yes,Premium,18868.86,Asthma,1,1
+69,Female,23.6,Yes,Premium,37186.79,None,16,0
+55,Male,32.4,No,Premium,33664.24,Asthma,6,0
+50,Female,22.4,No,Gold,6858.54,Diabetes,3,0
+41,Male,30.4,No,Gold,29059.5,None,2,0
+32,Female,28.2,No,Premium,13580.43,Heart Disease,2,0
+47,Female,39.4,No,Basic,40400.69,Asthma,13,0
+59,Male,31.4,No,Premium,21870.95,Asthma,9,0
+68,Female,25.7,No,Gold,49739.52,Diabetes,16,0
+34,Male,20.5,No,Premium,5532.52,Diabetes,5,0
+22,Female,21.3,No,Gold,39237.05,Asthma,7,0
+46,Male,23.0,No,Gold,34011.38,Diabetes,13,0
+21,Male,23.5,No,Gold,38607.44,Heart Disease,13,0
+27,Female,36.7,No,Premium,16068.96,Diabetes,7,0
+34,Female,30.3,No,Gold,25110.67,Diabetes,10,0
+27,Male,29.5,No,Gold,40028.92,Asthma,15,0
+34,Female,20.5,No,Premium,12394.53,Asthma,6,1
+37,Female,36.9,No,Gold,12075.63,None,5,1
+41,Male,33.9,Yes,Premium,28001.5,None,2,0
+22,Male,19.5,No,Gold,26654.62,Asthma,15,0
+51,Female,33.6,Yes,Basic,14830.86,Diabetes,16,0
+23,Male,30.0,No,Basic,15605.71,Diabetes,19,0
+19,Male,19.8,No,Gold,14614.41,None,9,1
+30,Male,28.1,Yes,Basic,38804.09,None,19,0
+60,Female,28.7,No,Premium,32943.14,None,7,0
+60,Female,21.6,Yes,Basic,41788.44,Heart Disease,4,0
+65,Male,38.8,Yes,Gold,48798.18,Heart Disease,3,0
+28,Female,36.7,Yes,Gold,24234.05,None,11,0
+68,Male,32.7,No,Premium,4268.0,Diabetes,1,0
+64,Female,28.2,No,Gold,3356.52,None,6,1
+40,Male,27.1,No,Premium,15487.59,Heart Disease,11,0
+33,Male,32.3,Yes,Basic,46694.68,Diabetes,1,0
+48,Female,30.0,Yes,Basic,26637.44,Heart Disease,7,0
+28,Male,19.4,No,Premium,14317.54,Diabetes,6,0
+33,Female,29.3,No,Premium,20559.17,Heart Disease,14,0
+25,Female,35.7,No,Gold,30331.16,Diabetes,2,0
+21,Male,28.1,No,Basic,32994.53,Diabetes,4,0
+57,Male,19.1,No,Premium,8542.06,Diabetes,11,0
+21,Female,35.3,Yes,Basic,48874.55,Diabetes,15,0
+42,Male,22.4,Yes,Premium,27693.84,Asthma,18,0
+20,Male,23.7,Yes,Basic,7648.73,Heart Disease,1,0
+49,Male,21.6,No,Gold,44788.13,Heart Disease,3,0
+20,Male,25.3,Yes,Basic,4657.28,Asthma,3,1
+44,Male,34.6,Yes,Basic,45479.04,Diabetes,7,0
+46,Female,29.4,Yes,Basic,49831.72,Diabetes,1,0
+49,Female,22.5,Yes,Basic,35321.16,Heart Disease,11,0
+67,Male,37.3,Yes,Basic,38751.91,Asthma,6,0
+68,Male,37.4,No,Gold,17527.84,Diabetes,3,0
+36,Male,37.2,Yes,Premium,47137.27,Diabetes,19,0
+38,Female,23.3,No,Basic,26955.98,Diabetes,2,0
+22,Male,27.9,No,Gold,36887.03,None,18,0
+35,Female,39.7,No,Basic,46281.28,Asthma,12,0
+45,Female,35.0,No,Basic,48783.82,Diabetes,10,0
+59,Female,18.6,No,Premium,41827.01,None,5,0
+39,Male,19.4,Yes,Basic,15847.86,Asthma,9,1
+38,Female,28.2,Yes,Gold,48360.83,Diabetes,2,0
+23,Male,38.0,No,Gold,31777.86,Heart Disease,2,0
+18,Female,29.9,No,Premium,46601.48,None,6,0
+22,Male,29.0,No,Basic,34129.15,None,10,0
+58,Female,20.3,Yes,Gold,16054.71,Diabetes,18,0
+29,Male,32.4,No,Basic,19131.2,Diabetes,12,0
+43,Female,36.1,Yes,Basic,27973.12,None,4,0
+63,Male,26.4,No,Basic,39710.73,Heart Disease,17,0
+51,Male,35.1,Yes,Premium,16581.15,Heart Disease,15,0
+66,Male,39.2,No,Basic,29406.83,Asthma,6,0
+31,Male,22.5,Yes,Gold,17935.62,Diabetes,16,0
+43,Female,29.5,No,Basic,40972.7,Heart Disease,17,0
+62,Female,24.3,Yes,Gold,23869.68,Asthma,3,0
+44,Male,35.4,Yes,Basic,4759.42,Heart Disease,10,0
+26,Female,30.7,Yes,Gold,9136.57,Diabetes,5,0
+43,Male,32.0,Yes,Gold,3994.13,Asthma,14,0
+64,Male,35.6,Yes,Basic,25465.84,Asthma,13,0
+39,Female,26.7,Yes,Basic,6210.53,Asthma,6,1
+64,Male,38.1,Yes,Gold,6592.86,Heart Disease,12,0
+47,Male,29.7,No,Premium,47111.36,Diabetes,8,0
+60,Female,21.5,No,Basic,43760.1,Asthma,5,0
+65,Male,33.3,No,Premium,23152.24,None,15,0
+34,Male,35.5,No,Basic,49304.46,Diabetes,16,0
+43,Male,25.0,No,Basic,1009.14,None,1,1
+53,Male,36.9,Yes,Basic,31084.99,None,16,0
+18,Female,37.9,Yes,Basic,31204.98,Asthma,5,0
+25,Female,24.1,Yes,Premium,23414.71,Asthma,3,0
+66,Female,39.6,Yes,Basic,20450.45,Heart Disease,15,0
+52,Male,21.1,Yes,Gold,23313.77,Heart Disease,13,0
+69,Male,22.4,No,Gold,21333.06,Heart Disease,16,0
+32,Female,22.1,No,Premium,36794.13,Diabetes,11,0
+64,Male,37.7,No,Basic,7632.42,Heart Disease,2,0
+39,Male,32.4,No,Gold,10684.32,None,6,1
+31,Male,21.3,Yes,Premium,9845.39,Heart Disease,6,0
+43,Male,27.7,Yes,Basic,13861.06,Asthma,14,0
+45,Female,31.5,Yes,Gold,26737.66,Heart Disease,11,0
+40,Female,19.8,No,Gold,6449.23,Diabetes,8,0
+31,Female,37.4,Yes,Premium,43540.3,Diabetes,8,0
+41,Male,35.7,No,Basic,15570.72,None,1,1
+19,Female,29.1,Yes,Basic,8964.36,Diabetes,7,0
+62,Female,39.3,Yes,Gold,34105.44,Heart Disease,6,0
+43,Male,27.2,No,Gold,2866.23,Asthma,8,1
+31,Male,39.7,Yes,Gold,31378.46,Diabetes,19,0
+68,Female,32.7,Yes,Basic,35211.72,None,8,0
+24,Female,32.0,No,Premium,11530.91,Heart Disease,14,0
+20,Female,21.7,Yes,Premium,3056.24,None,18,0
+64,Female,37.4,No,Basic,18818.62,Diabetes,16,0
+40,Male,27.4,Yes,Premium,5831.12,Diabetes,9,0
+63,Female,21.6,Yes,Gold,6707.41,None,15,0
+60,Female,18.3,Yes,Premium,13458.8,Heart Disease,10,0
+64,Male,30.3,Yes,Premium,15477.93,Diabetes,16,0
+62,Female,29.6,Yes,Premium,26968.55,Asthma,4,0
+35,Male,33.8,Yes,Gold,34241.2,Diabetes,13,0
+55,Male,37.6,Yes,Basic,30045.78,Heart Disease,5,0
