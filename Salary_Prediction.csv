@@ -1,0 +1,501 @@
+YearsExperience,EducationLevel,SkillPython,SkillSQL,SkillML,JobRole,Salary(LPA)
+7.5,Bachelors,0,0,1,Data Scientist,9.67
+19.0,Masters,1,1,0,Data Scientist,16.19
+14.6,High School,1,1,0,Data Analyst,9.62
+12.0,High School,0,1,1,Data Analyst,8.72
+3.1,High School,0,1,1,Data Scientist,9.04
+3.1,High School,0,0,0,Data Analyst,5.69
+1.2,PhD,1,1,0,Data Analyst,8.7
+17.3,High School,1,0,1,Data Scientist,13.19
+12.0,PhD,1,0,1,Data Analyst,12.47
+14.2,PhD,1,0,1,Software Engineer,14.08
+0.4,High School,0,0,1,Software Engineer,6.77
+19.4,High School,0,0,0,Software Engineer,10.99
+16.6,Bachelors,0,1,1,Software Engineer,12.36
+4.2,Masters,0,1,1,Data Scientist,11.56
+3.6,High School,1,1,0,Data Scientist,8.43
+3.7,Bachelors,1,1,1,Data Scientist,10.73
+6.1,Bachelors,0,0,0,Software Engineer,8.76
+10.5,Masters,0,1,1,Software Engineer,11.97
+8.6,PhD,1,0,1,Data Analyst,10.67
+5.8,High School,0,1,0,Data Analyst,7.19
+12.2,Masters,1,0,0,Software Engineer,13.02
+2.8,High School,0,0,1,Software Engineer,7.49
+5.8,Bachelors,0,1,1,Software Engineer,9.9
+7.3,Bachelors,0,0,1,Software Engineer,9.35
+9.1,PhD,0,0,0,Data Analyst,9.63
+15.7,Bachelors,0,1,1,Software Engineer,12.69
+4.0,Bachelors,0,0,0,Data Analyst,6.21
+10.3,Masters,0,1,0,Software Engineer,10.7
+11.8,High School,1,1,1,Software Engineer,11.44
+0.9,High School,1,1,0,Software Engineer,7.7
+12.2,Masters,1,0,1,Data Analyst,10.73
+3.4,PhD,1,0,1,Data Analyst,9.64
+1.3,High School,1,0,1,Data Scientist,8.89
+19.0,Bachelors,0,1,1,Software Engineer,13.8
+19.3,High School,0,0,1,Data Scientist,12.69
+16.2,Bachelors,1,1,0,Data Scientist,13.74
+6.1,PhD,0,1,0,Data Analyst,10.49
+2.0,Masters,1,0,1,Data Analyst,8.22
+13.7,High School,1,1,1,Data Scientist,12.88
+8.8,Masters,0,0,0,Software Engineer,10.81
+2.4,High School,0,0,0,Data Analyst,4.79
+9.9,Bachelors,0,0,0,Software Engineer,9.66
+0.7,Masters,1,0,0,Software Engineer,8.88
+18.2,High School,0,0,1,Data Scientist,13.37
+5.2,Bachelors,1,1,1,Data Scientist,11.61
+13.3,Masters,1,1,0,Data Scientist,13.56
+6.2,Masters,1,1,1,Data Scientist,12.58
+10.4,High School,0,0,0,Data Analyst,8.21
+10.9,High School,0,0,1,Data Analyst,7.78
+3.7,High School,1,0,0,Data Scientist,9.35
+19.4,Bachelors,0,1,1,Data Analyst,13.14
+15.5,High School,0,0,0,Data Scientist,12.96
+18.8,Masters,0,1,0,Software Engineer,14.26
+17.9,Masters,1,1,1,Software Engineer,14.99
+12.0,High School,1,0,0,Software Engineer,10.51
+18.4,High School,0,0,1,Data Scientist,13.42
+1.8,PhD,1,1,1,Software Engineer,11.6
+3.9,Masters,0,0,0,Data Analyst,8.06
+0.9,Bachelors,0,1,1,Software Engineer,8.22
+6.5,PhD,0,0,1,Software Engineer,12.06
+7.8,High School,0,0,1,Software Engineer,8.3
+5.4,High School,1,1,1,Data Analyst,7.62
+16.6,Masters,1,0,1,Data Scientist,15.76
+7.1,High School,1,1,0,Data Analyst,7.0
+5.6,Bachelors,0,0,1,Data Scientist,9.84
+10.9,Masters,0,1,1,Data Scientist,13.61
+2.8,High School,0,1,1,Software Engineer,8.04
+16.0,Masters,1,0,1,Data Scientist,14.36
+1.5,High School,0,1,1,Data Analyst,5.74
+19.7,High School,1,0,0,Data Analyst,10.32
+15.4,High School,1,0,1,Data Scientist,13.11
+4.0,Bachelors,1,0,0,Software Engineer,8.57
+0.1,Bachelors,1,1,0,Software Engineer,8.93
+16.3,Masters,1,1,0,Data Analyst,12.43
+14.1,High School,1,0,0,Software Engineer,10.62
+14.6,High School,0,0,1,Data Scientist,11.72
+15.4,Bachelors,0,1,0,Data Scientist,13.0
+1.5,High School,1,0,0,Data Analyst,5.51
+7.2,Bachelors,1,0,1,Data Scientist,12.42
+2.3,High School,0,1,1,Data Analyst,6.02
+17.3,Masters,1,0,1,Data Scientist,15.04
+12.5,High School,1,1,0,Data Analyst,9.28
+6.6,High School,0,0,1,Software Engineer,9.03
+1.3,PhD,1,1,1,Data Scientist,11.18
+6.2,Bachelors,1,0,0,Data Scientist,10.59
+6.5,High School,1,0,1,Data Analyst,7.04
+14.6,High School,0,1,1,Data Analyst,10.16
+12.8,PhD,0,0,1,Data Scientist,14.09
+17.7,PhD,0,1,1,Data Analyst,12.66
+9.4,Bachelors,1,0,0,Data Scientist,11.5
+2.4,PhD,1,1,1,Software Engineer,11.4
+14.3,Masters,0,1,1,Data Analyst,11.5
+15.2,PhD,1,1,0,Data Scientist,15.24
+11.2,Masters,1,1,1,Software Engineer,12.2
+15.4,Bachelors,1,0,0,Software Engineer,12.51
+9.9,Bachelors,1,0,1,Data Scientist,12.41
+10.5,Bachelors,1,1,0,Data Analyst,9.21
+8.6,Bachelors,0,1,0,Data Scientist,10.81
+0.5,Bachelors,1,1,0,Software Engineer,8.12
+2.2,Masters,0,0,0,Data Scientist,10.8
+0.6,Masters,1,0,1,Data Analyst,7.95
+12.7,Bachelors,0,0,0,Software Engineer,10.34
+6.3,PhD,1,0,1,Data Scientist,13.04
+10.2,High School,0,1,0,Data Analyst,7.37
+18.2,Bachelors,1,1,0,Software Engineer,13.82
+5.0,PhD,0,1,0,Data Analyst,10.34
+8.2,High School,1,0,1,Software Engineer,10.3
+15.1,Bachelors,0,0,0,Data Scientist,12.9
+4.6,Bachelors,1,0,1,Data Analyst,7.59
+1.5,Masters,0,1,1,Software Engineer,8.8
+5.8,High School,0,1,1,Data Analyst,6.54
+3.2,High School,1,0,1,Data Analyst,5.06
+18.6,PhD,1,1,1,Data Scientist,17.43
+16.2,Masters,0,0,1,Data Analyst,11.81
+12.7,Masters,1,0,1,Software Engineer,13.26
+17.4,Masters,0,1,1,Software Engineer,14.93
+16.1,Masters,0,0,1,Software Engineer,13.38
+3.7,High School,0,1,0,Software Engineer,7.68
+17.9,High School,1,0,0,Data Scientist,12.64
+10.8,Bachelors,0,1,0,Data Analyst,9.07
+16.1,Bachelors,0,1,0,Data Scientist,13.69
+17.9,Masters,1,1,0,Data Analyst,12.78
+6.4,Masters,1,0,1,Data Analyst,9.26
+2.2,Masters,1,0,1,Data Analyst,8.15
+4.6,Bachelors,1,1,1,Data Scientist,11.32
+8.5,PhD,0,1,1,Data Analyst,10.7
+16.4,PhD,0,0,1,Data Scientist,15.39
+17.2,Bachelors,0,0,1,Software Engineer,12.78
+0.1,Bachelors,0,0,1,Software Engineer,8.11
+10.2,Bachelors,1,1,0,Data Analyst,9.44
+8.3,Bachelors,0,0,0,Data Scientist,10.13
+4.4,Bachelors,0,0,0,Software Engineer,8.08
+2.4,Bachelors,1,1,0,Data Scientist,10.25
+6.8,Masters,0,0,1,Data Scientist,12.56
+18.9,Masters,0,0,1,Data Analyst,12.01
+6.5,Masters,0,0,1,Software Engineer,9.9
+10.4,Masters,0,1,0,Data Analyst,10.04
+14.1,Bachelors,0,1,1,Data Analyst,10.79
+7.3,PhD,0,1,1,Software Engineer,12.58
+19.4,High School,1,1,1,Software Engineer,12.87
+19.2,Bachelors,1,1,0,Data Scientist,14.23
+5.0,High School,0,1,1,Software Engineer,8.57
+9.9,PhD,0,1,0,Data Scientist,13.34
+6.0,Masters,1,0,0,Data Scientist,11.76
+5.7,PhD,0,0,0,Data Scientist,11.95
+0.7,Bachelors,0,1,0,Software Engineer,7.99
+12.2,Masters,0,0,1,Data Analyst,10.61
+10.1,Bachelors,1,0,0,Data Scientist,12.71
+1.0,Masters,0,1,0,Data Analyst,6.88
+5.6,High School,1,0,1,Data Analyst,7.49
+18.2,High School,0,0,1,Software Engineer,11.33
+4.8,High School,1,0,0,Data Analyst,5.9
+2.9,PhD,1,0,1,Data Analyst,9.07
+9.8,Bachelors,0,0,0,Software Engineer,10.75
+19.7,PhD,1,1,0,Data Scientist,17.04
+4.8,High School,0,1,0,Data Analyst,6.14
+13.4,Bachelors,1,1,0,Software Engineer,12.21
+15.2,High School,0,0,1,Data Analyst,9.58
+4.8,PhD,0,1,0,Data Analyst,9.19
+14.6,PhD,1,0,1,Data Scientist,14.68
+7.4,PhD,0,0,1,Data Analyst,10.94
+12.6,High School,0,0,1,Software Engineer,10.38
+12.7,Bachelors,1,0,1,Data Analyst,11.4
+10.7,Bachelors,0,1,0,Data Scientist,12.18
+1.8,High School,0,1,1,Data Scientist,8.82
+16.7,Bachelors,1,0,0,Software Engineer,12.29
+6.4,High School,1,1,1,Data Scientist,9.87
+3.7,Bachelors,0,0,1,Data Analyst,7.0
+0.8,Masters,0,1,0,Data Scientist,9.18
+11.8,Masters,1,1,0,Software Engineer,12.87
+13.6,PhD,1,0,0,Data Scientist,15.4
+0.3,Masters,0,1,1,Data Scientist,9.96
+10.2,Masters,1,0,1,Data Scientist,13.53
+4.5,Masters,0,1,0,Software Engineer,9.51
+12.9,High School,0,0,0,Data Scientist,10.72
+3.5,Masters,0,0,0,Data Scientist,9.64
+13.8,Masters,0,1,0,Data Analyst,10.07
+7.7,PhD,0,1,1,Software Engineer,12.29
+18.7,Masters,1,0,0,Data Scientist,15.17
+2.8,Masters,1,1,0,Software Engineer,10.37
+6.8,Bachelors,1,1,0,Data Scientist,11.44
+2.3,PhD,1,0,0,Data Scientist,11.59
+18.5,PhD,0,0,1,Data Scientist,15.56
+17.5,PhD,0,1,0,Data Analyst,13.48
+5.2,PhD,0,0,1,Data Analyst,10.35
+13.2,PhD,0,0,0,Data Analyst,11.65
+16.3,PhD,1,0,0,Software Engineer,15.3
+11.1,High School,0,1,1,Software Engineer,11.34
+10.6,Masters,0,1,0,Data Analyst,10.05
+4.8,PhD,1,0,1,Software Engineer,11.09
+1.9,Masters,1,1,1,Data Scientist,10.69
+17.9,Masters,1,0,0,Data Scientist,14.11
+18.0,High School,1,1,1,Data Scientist,13.64
+12.7,PhD,0,0,1,Data Analyst,12.41
+6.8,Bachelors,0,0,1,Software Engineer,8.44
+7.0,High School,1,1,1,Data Analyst,7.58
+14.5,Bachelors,0,0,1,Software Engineer,11.79
+17.9,Masters,0,1,1,Data Scientist,14.93
+17.7,Masters,0,1,1,Data Analyst,12.55
+15.6,High School,1,0,1,Software Engineer,11.42
+12.8,High School,0,0,0,Software Engineer,9.71
+1.7,Bachelors,1,1,0,Data Scientist,9.15
+3.2,PhD,0,0,1,Data Analyst,8.55
+18.0,Bachelors,0,0,0,Data Analyst,11.37
+12.1,High School,0,0,1,Data Analyst,9.15
+0.2,Bachelors,1,0,1,Data Scientist,8.37
+2.0,High School,0,0,0,Data Analyst,3.72
+13.3,Bachelors,1,1,1,Data Scientist,14.02
+0.1,High School,1,1,1,Data Scientist,7.92
+3.2,High School,1,0,1,Data Scientist,9.07
+11.0,High School,0,0,1,Software Engineer,9.02
+13.8,PhD,0,0,0,Data Analyst,12.29
+13.0,Bachelors,0,1,1,Data Analyst,11.67
+4.5,Bachelors,0,0,1,Data Scientist,9.94
+14.2,Bachelors,1,1,1,Data Scientist,13.71
+4.7,High School,1,1,0,Data Analyst,6.75
+6.5,Bachelors,1,1,1,Data Scientist,11.84
+14.9,Bachelors,0,0,0,Data Analyst,10.25
+13.0,High School,1,1,0,Software Engineer,11.4
+17.0,Masters,0,0,1,Data Scientist,14.29
+13.2,High School,1,1,1,Data Analyst,10.13
+11.4,Bachelors,0,0,0,Data Scientist,11.15
+1.9,High School,0,1,1,Data Analyst,5.54
+7.4,Masters,1,0,0,Data Analyst,9.2
+5.3,High School,1,1,0,Data Scientist,9.13
+4.9,Bachelors,1,0,1,Software Engineer,10.06
+19.5,Masters,1,0,1,Data Analyst,12.92
+7.9,PhD,0,0,0,Data Analyst,10.05
+17.8,Bachelors,1,0,0,Data Analyst,11.04
+12.6,Masters,1,1,0,Software Engineer,12.92
+15.9,Masters,1,1,0,Software Engineer,13.51
+10.1,PhD,0,0,1,Data Scientist,12.9
+11.5,High School,0,1,1,Software Engineer,10.69
+9.9,High School,1,0,1,Data Scientist,10.85
+3.9,Bachelors,0,0,1,Data Scientist,9.81
+14.4,PhD,1,1,1,Software Engineer,14.61
+5.6,High School,0,0,0,Data Scientist,8.02
+0.5,PhD,0,0,1,Software Engineer,10.19
+12.9,High School,0,1,1,Data Scientist,12.24
+3.5,Masters,0,0,1,Software Engineer,9.27
+18.8,High School,1,0,1,Software Engineer,12.67
+19.1,PhD,1,0,1,Data Scientist,17.25
+18.3,Masters,1,0,0,Data Analyst,12.26
+7.4,Masters,0,1,0,Data Scientist,11.57
+0.3,Masters,1,1,0,Software Engineer,9.21
+18.6,PhD,1,1,1,Data Analyst,14.35
+8.6,Bachelors,1,0,0,Data Scientist,11.51
+19.3,Bachelors,0,0,0,Data Scientist,13.71
+19.3,Bachelors,0,1,1,Data Scientist,14.4
+17.1,PhD,0,0,1,Data Analyst,13.43
+5.9,Masters,1,0,1,Software Engineer,10.2
+7.7,Bachelors,1,0,0,Data Scientist,11.82
+17.0,PhD,1,0,0,Data Scientist,16.39
+6.3,Bachelors,0,1,1,Data Scientist,11.15
+3.4,High School,0,1,1,Data Scientist,9.23
+11.1,Bachelors,1,1,0,Data Scientist,12.52
+18.7,Bachelors,0,0,0,Software Engineer,12.37
+13.9,Masters,0,1,1,Software Engineer,13.32
+11.4,PhD,0,1,1,Data Scientist,13.96
+1.9,Masters,0,0,0,Data Analyst,7.32
+12.3,Masters,1,0,1,Software Engineer,13.12
+19.8,Masters,0,1,0,Data Analyst,12.75
+2.8,Masters,0,1,0,Software Engineer,9.04
+10.4,Masters,0,1,0,Data Scientist,12.01
+17.5,Bachelors,0,1,0,Software Engineer,13.48
+14.8,Masters,1,0,1,Data Scientist,14.18
+13.9,Masters,1,1,1,Software Engineer,13.57
+14.0,PhD,0,1,0,Data Scientist,14.85
+7.2,High School,0,0,0,Data Scientist,9.3
+5.9,Bachelors,0,1,0,Data Scientist,10.64
+16.2,Bachelors,0,0,0,Data Scientist,12.67
+16.2,Bachelors,0,0,0,Data Analyst,9.79
+17.3,Masters,0,0,1,Data Scientist,14.03
+18.3,Masters,1,1,1,Data Analyst,13.2
+10.2,Masters,0,1,1,Data Analyst,10.08
+10.0,PhD,1,0,1,Data Scientist,13.85
+16.0,High School,1,1,0,Data Analyst,10.95
+13.0,Masters,0,1,0,Software Engineer,12.21
+14.0,High School,1,0,0,Data Scientist,11.51
+15.9,PhD,1,0,0,Data Analyst,12.76
+17.8,Bachelors,1,1,0,Data Scientist,14.14
+6.8,Masters,1,0,1,Data Scientist,12.01
+7.5,High School,1,1,0,Data Scientist,10.52
+1.9,High School,1,1,1,Data Analyst,7.01
+11.6,Masters,0,1,1,Software Engineer,12.98
+0.7,Bachelors,1,1,1,Software Engineer,9.74
+9.3,Bachelors,1,0,1,Data Analyst,9.57
+10.9,Bachelors,1,0,0,Data Scientist,12.89
+5.7,PhD,0,0,1,Data Analyst,9.32
+11.8,High School,1,0,1,Data Analyst,10.09
+0.6,High School,0,1,1,Data Analyst,5.49
+0.7,High School,1,1,0,Data Scientist,8.07
+16.5,PhD,0,0,0,Data Analyst,12.39
+7.2,High School,0,1,0,Data Scientist,9.55
+2.5,PhD,1,1,1,Data Analyst,9.79
+10.4,Bachelors,1,1,1,Software Engineer,11.33
+15.4,Masters,0,0,0,Data Analyst,11.53
+4.3,High School,1,0,1,Data Analyst,6.51
+12.5,High School,0,0,0,Software Engineer,10.08
+1.7,Bachelors,0,1,0,Data Scientist,9.77
+1.0,Masters,0,0,1,Data Scientist,9.62
+10.6,PhD,0,0,1,Data Analyst,11.58
+10.8,Masters,0,0,1,Software Engineer,12.02
+12.7,Bachelors,1,0,1,Data Scientist,13.94
+14.5,Bachelors,0,0,0,Data Analyst,9.6
+19.5,Masters,0,0,0,Software Engineer,14.25
+10.3,PhD,1,1,0,Data Scientist,13.28
+6.5,PhD,0,1,0,Data Scientist,12.2
+15.9,High School,1,0,0,Software Engineer,11.45
+5.4,PhD,1,0,1,Software Engineer,12.32
+8.8,Masters,1,1,0,Software Engineer,11.03
+1.6,Bachelors,0,1,0,Software Engineer,8.37
+0.5,High School,0,0,0,Data Analyst,4.62
+19.3,High School,0,0,1,Software Engineer,11.53
+16.7,Bachelors,1,0,1,Data Scientist,14.1
+13.9,PhD,0,0,1,Data Scientist,15.52
+8.2,Bachelors,1,1,1,Data Analyst,8.9
+3.5,PhD,0,0,0,Data Scientist,11.0
+3.1,Bachelors,1,0,0,Data Scientist,8.94
+5.0,Masters,0,0,1,Software Engineer,9.77
+11.0,PhD,0,0,1,Data Scientist,14.52
+14.3,Masters,0,1,0,Data Analyst,11.15
+13.2,High School,1,1,0,Software Engineer,11.66
+5.6,Bachelors,1,1,1,Software Engineer,10.73
+19.1,High School,0,0,1,Data Analyst,10.55
+14.8,High School,0,0,1,Software Engineer,10.69
+11.1,High School,1,1,1,Software Engineer,10.38
+12.2,High School,1,0,0,Data Analyst,8.19
+8.4,Bachelors,1,0,0,Software Engineer,10.2
+5.0,High School,0,1,0,Data Analyst,6.49
+7.1,Bachelors,1,1,1,Data Analyst,8.82
+15.2,Bachelors,0,1,1,Data Scientist,12.79
+0.3,Masters,1,1,0,Data Scientist,10.14
+2.3,PhD,0,0,0,Software Engineer,9.46
+0.9,PhD,1,0,0,Software Engineer,9.67
+0.8,Bachelors,1,1,0,Data Analyst,6.89
+17.1,Masters,1,0,1,Software Engineer,12.88
+14.1,Bachelors,1,1,0,Data Analyst,9.96
+9.5,Bachelors,1,1,0,Data Analyst,10.5
+2.0,Bachelors,0,0,0,Software Engineer,7.35
+9.8,Masters,1,1,0,Data Analyst,9.18
+9.5,PhD,1,0,0,Data Scientist,12.63
+3.5,Masters,1,0,0,Software Engineer,10.79
+8.7,High School,0,0,0,Data Scientist,9.26
+8.0,Masters,1,0,1,Software Engineer,11.98
+12.3,Masters,0,1,1,Data Analyst,11.25
+12.7,Masters,1,0,1,Software Engineer,12.57
+0.9,Masters,1,1,1,Data Scientist,11.16
+7.5,PhD,0,1,0,Data Analyst,9.06
+12.5,High School,1,1,1,Software Engineer,10.53
+10.1,PhD,0,1,1,Software Engineer,12.78
+17.1,PhD,0,0,0,Software Engineer,13.46
+13.2,Masters,1,0,0,Data Scientist,13.17
+3.3,Bachelors,0,1,1,Data Scientist,10.42
+1.4,Bachelors,1,1,1,Software Engineer,8.99
+12.8,PhD,1,0,0,Data Analyst,12.51
+0.5,PhD,0,1,1,Data Analyst,8.75
+11.7,Masters,0,0,0,Data Scientist,13.01
+18.8,PhD,0,1,0,Data Analyst,13.61
+11.5,Masters,0,0,0,Data Scientist,12.15
+7.8,Bachelors,1,1,0,Software Engineer,11.08
+12.9,Bachelors,1,1,1,Data Scientist,13.02
+9.2,High School,0,0,0,Data Scientist,9.93
+10.9,Bachelors,1,1,0,Software Engineer,11.65
+18.8,PhD,1,1,1,Data Analyst,15.06
+7.7,Bachelors,1,0,0,Data Scientist,10.23
+19.2,Masters,1,1,1,Data Scientist,16.79
+18.1,Bachelors,0,0,1,Software Engineer,12.44
+3.9,High School,0,0,1,Data Analyst,6.58
+1.4,Bachelors,1,1,0,Data Scientist,9.69
+2.0,Masters,0,1,1,Software Engineer,10.01
+0.4,Masters,0,1,1,Data Scientist,9.52
+1.9,PhD,0,1,0,Software Engineer,10.36
+13.7,Bachelors,1,1,1,Data Analyst,11.65
+1.4,Masters,1,1,1,Data Analyst,8.52
+6.4,High School,1,1,1,Data Analyst,7.51
+16.9,PhD,0,0,1,Data Analyst,13.53
+0.5,High School,1,1,1,Data Scientist,8.71
+16.3,Bachelors,1,0,0,Data Scientist,12.55
+5.6,Bachelors,0,1,1,Data Analyst,7.73
+2.4,Bachelors,1,1,1,Data Analyst,7.46
+13.9,PhD,1,0,0,Data Analyst,12.92
+12.6,Masters,0,1,0,Data Scientist,13.95
+17.5,PhD,0,1,0,Data Analyst,13.91
+14.7,High School,0,0,1,Data Analyst,9.53
+16.1,PhD,1,1,0,Data Analyst,13.79
+5.6,High School,1,1,1,Software Engineer,8.61
+3.5,PhD,1,1,1,Data Analyst,10.05
+15.0,Masters,0,0,0,Software Engineer,12.73
+16.1,High School,0,1,0,Software Engineer,10.79
+19.8,Bachelors,1,1,1,Data Analyst,13.04
+8.3,Bachelors,1,1,0,Software Engineer,11.33
+7.4,PhD,0,1,1,Data Analyst,11.0
+15.5,Bachelors,0,0,0,Data Scientist,13.11
+6.8,High School,0,0,0,Data Scientist,7.81
+18.6,Bachelors,0,1,0,Data Scientist,14.86
+17.2,Masters,1,1,1,Data Scientist,15.57
+8.6,Masters,0,0,0,Software Engineer,10.2
+15.0,PhD,1,0,1,Data Analyst,12.91
+15.1,High School,1,1,1,Data Analyst,9.79
+2.1,Masters,1,0,1,Data Analyst,8.65
+18.1,Masters,0,1,1,Data Scientist,15.26
+10.1,High School,0,0,0,Data Scientist,9.66
+16.5,Bachelors,0,0,1,Data Analyst,10.87
+6.4,Bachelors,0,0,1,Data Scientist,10.98
+17.9,PhD,1,0,0,Data Analyst,13.44
+7.8,Bachelors,0,1,1,Data Analyst,8.14
+0.2,High School,0,0,0,Data Analyst,4.79
+18.1,Masters,1,0,1,Data Analyst,12.47
+1.8,Bachelors,0,1,0,Data Analyst,5.46
+6.4,PhD,1,0,1,Data Analyst,11.17
+19.0,Bachelors,1,0,0,Data Analyst,11.93
+19.0,High School,1,1,1,Data Scientist,14.16
+11.5,PhD,1,0,1,Data Analyst,11.78
+12.6,Bachelors,1,1,0,Data Analyst,10.98
+9.0,PhD,1,1,0,Data Scientist,15.24
+5.9,High School,1,1,0,Data Scientist,9.99
+6.6,Masters,1,1,0,Data Scientist,11.47
+13.5,High School,0,0,1,Data Analyst,8.97
+15.0,High School,0,1,1,Software Engineer,11.72
+15.8,High School,0,0,0,Software Engineer,9.57
+15.8,High School,0,0,1,Data Scientist,12.41
+1.8,Masters,1,0,0,Software Engineer,9.26
+9.9,Masters,0,0,0,Data Scientist,12.63
+1.2,PhD,1,0,1,Data Analyst,9.47
+11.0,Bachelors,0,0,1,Software Engineer,10.86
+8.8,Masters,0,0,1,Data Analyst,10.4
+17.8,Masters,0,0,1,Software Engineer,14.86
+7.0,Bachelors,1,0,1,Data Analyst,8.61
+2.3,Masters,0,0,1,Software Engineer,9.4
+2.9,High School,1,1,1,Data Analyst,5.99
+15.2,High School,1,1,0,Data Analyst,9.33
+12.4,Bachelors,0,1,0,Software Engineer,10.8
+2.0,PhD,0,0,0,Data Analyst,7.88
+1.7,PhD,0,1,0,Data Analyst,7.96
+14.0,Bachelors,1,1,0,Data Analyst,10.68
+1.5,Bachelors,0,1,1,Software Engineer,8.24
+16.4,High School,1,0,0,Software Engineer,11.96
+14.1,PhD,1,0,0,Data Analyst,11.99
+1.6,Masters,0,0,0,Data Analyst,5.84
+1.7,High School,0,0,0,Software Engineer,6.57
+19.7,Bachelors,1,1,0,Software Engineer,13.9
+7.5,PhD,1,1,0,Data Analyst,10.32
+7.4,Masters,1,1,0,Data Analyst,9.77
+16.3,Masters,0,1,1,Data Analyst,11.85
+18.9,High School,1,0,1,Data Scientist,13.83
+19.7,PhD,0,0,0,Software Engineer,16.23
+15.1,PhD,1,0,1,Data Scientist,14.63
+7.5,Bachelors,1,1,1,Software Engineer,10.49
+1.7,PhD,0,0,1,Software Engineer,9.67
+15.5,PhD,1,0,1,Software Engineer,14.43
+11.2,High School,0,1,0,Software Engineer,10.37
+8.5,PhD,0,1,1,Software Engineer,12.82
+18.1,Masters,1,0,1,Software Engineer,14.85
+2.2,High School,0,0,1,Software Engineer,7.18
+9.9,High School,0,0,0,Data Scientist,9.31
+0.2,Bachelors,1,0,0,Data Analyst,5.5
+9.4,PhD,0,0,0,Data Analyst,10.69
+1.1,Bachelors,0,0,0,Data Scientist,8.42
+2.4,Masters,0,1,0,Data Scientist,10.85
+2.4,High School,1,1,0,Data Scientist,8.87
+13.0,High School,0,1,0,Data Scientist,10.81
+14.9,High School,1,0,1,Software Engineer,11.21
+11.7,Masters,1,1,1,Data Analyst,11.79
+19.2,Masters,0,0,1,Software Engineer,14.62
+7.5,Bachelors,0,0,0,Data Analyst,8.18
+5.7,Bachelors,0,1,0,Data Analyst,7.19
+17.4,Bachelors,1,0,0,Data Scientist,13.12
+4.5,PhD,0,0,0,Software Engineer,10.26
+19.3,High School,0,1,0,Data Scientist,14.01
+0.2,High School,0,1,1,Software Engineer,6.71
+19.4,Bachelors,0,1,1,Data Analyst,12.55
+0.9,High School,0,0,0,Data Scientist,7.5
+17.8,Bachelors,1,1,0,Data Scientist,14.72
+10.6,PhD,1,1,0,Data Analyst,12.51
+19.9,PhD,0,0,0,Data Analyst,14.25
+1.5,Masters,0,1,1,Data Analyst,7.65
+11.1,PhD,0,1,0,Data Scientist,12.78
+19.4,Bachelors,0,1,0,Software Engineer,12.98
+10.5,PhD,1,0,0,Data Scientist,13.69
+12.6,Masters,0,0,0,Software Engineer,11.6
+13.9,High School,1,0,1,Data Scientist,13.15
+9.1,Bachelors,1,0,0,Data Scientist,11.24
+12.6,High School,0,1,0,Data Analyst,9.11
+11.7,Masters,1,0,1,Software Engineer,12.62
+18.0,Masters,1,0,1,Data Scientist,15.23
+0.9,Masters,1,1,1,Data Scientist,9.81
+5.6,High School,1,1,0,Data Analyst,7.14
+19.0,High School,0,1,0,Data Analyst,12.33
+17.8,High School,0,0,1,Software Engineer,11.22
+9.1,High School,1,0,1,Data Scientist,9.82
+12.4,Masters,0,0,1,Software Engineer,13.19
+5.5,Masters,0,1,1,Data Scientist,12.02
+3.8,Bachelors,0,1,1,Software Engineer,9.23
+9.3,Bachelors,0,0,1,Data Analyst,9.47
+7.1,High School,0,1,0,Data Scientist,9.21
+11.7,PhD,1,1,0,Software Engineer,13.46
+1.6,PhD,0,1,0,Data Analyst,8.96
+19.5,Masters,0,0,1,Data Analyst,13.91
+19.7,Masters,0,1,1,Software Engineer,14.33
